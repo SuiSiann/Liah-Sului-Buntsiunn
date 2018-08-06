@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/詞彙分級文章/
+/.project
+/.pydevproject

@@ -2,6 +2,9 @@ from http.client import HTTPSConnection
 import json
 from urllib.parse import quote
 import ssl
+import csv
+from os import makedirs
+from os.path import exists
 
 ssl.match_hostname = lambda cert, hostname: True
 
@@ -16,11 +19,22 @@ class Command:
     }
 
     def 全部資料(self, *args, **參數):
-        匯入數量 = 0
-        for 一篇 in self._全部資料():
-            for 一逝 in 一篇['文章資料']:
-                print('一逝', 一逝)
-
+        全部文章 = self._全部資料()
+        if not exists('詞彙分級文章'):
+            makedirs('詞彙分級文章')
+        for 一篇 in 全部文章:
+            檔案名 = '詞彙分級文章/{}_{}.txt'.format(
+                一篇['id'],一篇['文章名'])
+            file = open(檔案名, "w")
+            臺羅 = 一篇['臺羅'].split('\n')
+            漢字 = 一篇['漢字'].split('\n')
+            for id, 一逝漢字 in enumerate(漢字): 
+                file.write(一逝漢字) 
+                file.write(臺羅[id])
+                file.write('\n')
+            file.close()
+            break
+        
     def _全部資料(self):
         conn = HTTPSConnection(self.domain)
         conn.request("GET", quote(self.網址))
@@ -31,7 +45,7 @@ class Command:
                 self.domain, self.網址, r1.status, r1.reason
             ))
         內容 = r1.read().decode()
-        print('內容', 內容)
+#         print('內容', 內容)
         return json.loads(內容)['資料']
     
     
