@@ -2,6 +2,7 @@ from http.client import HTTPSConnection
 import json
 from urllib.parse import quote
 import ssl
+import csv
 
 ssl.match_hostname = lambda cert, hostname: True
 
@@ -16,10 +17,19 @@ class Command:
     }
 
     def 全部資料(self, *args, **參數):
-        匯入數量 = 0
-        for 一篇 in self._全部資料():
-            for 一逝 in 一篇['文章資料']:
-                print('一逝', 一逝)
+        選取文章編號陣列 = self._讀選取的csv()
+        全部文章 = self._全部資料()
+        for 編號 in 選取文章編號陣列:
+            print('一筆', 全部文章['資料'][編號])
+
+    def _讀選取的csv(self):
+        選取文章編號陣列 = []
+        with open('詞彙分級選文.csv') as csvfile:
+            reader = csv.reader(csvfile, delimiter=',', quotechar='"')
+            for row in reader:
+                print('row', row)
+                選取文章編號陣列.append(int(row[0]))
+        return 選取文章編號陣列
 
     def _全部資料(self):
         conn = HTTPSConnection(self.domain)
@@ -31,7 +41,7 @@ class Command:
                 self.domain, self.網址, r1.status, r1.reason
             ))
         內容 = r1.read().decode()
-        print('內容', 內容)
+#         print('內容', 內容)
         return json.loads(內容)['資料']
     
     
