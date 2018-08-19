@@ -45,8 +45,8 @@ Lín tsia kuí tsin tsē
 一透早，
 Tsi̍t thàu-tsá,
 
-阿明欲去菜市仔買一寡仔青菜、果子仔，
-A-bîng beh khì tshài-tshī-á bé tsi̍t-kuá-á tshenn-tshài, kué-tsí-á, 
+#阿明#欲去菜市仔買一寡仔青菜、果子仔，
+#A-bîng# beh khì tshài-tshī-á bé tsi̍t-kuá-á tshenn-tshài, kué-tsí-á, 
 
 行啊行，
 kiânn --ah kiânn, 
@@ -57,32 +57,20 @@ se̍h --ah se̍h.
 行來到一擔賣果子的擔前，
 Kiânn lâi kàu tsi̍t tànn bē kué-tsí ê tànn-tsîng,
 
-阿明：
-A-bîng: 
-
-「頭家，
-“Thâu-ke,
+#阿明#：「頭家，
+#A-bîng#: “Thâu-ke,
 
 恁這菝仔按怎賣？」
 lín tse pua̍t-á án-tsuánn bē?”
 
-頭家：
-Thâu-ke: 
+頭家：「一斤算你五十就好啦！」
+Thâu-ke: “Tsi̍t kin sǹg lí gōo-tsa̍p tō hó --lah!”
 
-「一斤算你五十就好啦！」
-“Tsi̍t kin sǹg lí gōo-tsa̍p tō hó --lah!”
+#阿明#：「恁遮貴真濟！」
+#A-bîng#: “Lín tsia kuì tsin tsē!”
 
-阿明：
-A-bîng: 
-
-「恁遮貴真濟！」
-“Lín tsia kuì tsin tsē!”
-
-頭家：
-Thâu-ke: 
-
-「鬼？
-“Kuí? 
+頭家：「鬼？
+Thâu-ke: “Kuí? 
 
 啥物鬼？
 Siánn-mih kuí? 
@@ -99,17 +87,11 @@ Tsit-má ia̍h m̄ sī tshit-gue̍h-sî-á,
 你嘛莫共我嚇驚！」
 lí mā mài kā guá heh-kiann!”
 
-阿明：
-A-bîng: 
+#阿明#：「這菝仔有貴。」
+#A-bîng#: “Tse pua̍t-á ū kuì.”
 
-「這菝仔有貴。」
-“Tse pua̍t-á ū kuì.”
-
-頭家：
-Thâu-ke: 
-
-「原來是按呢！
-“Guân-lâi sī án-ne! 
+頭家：「原來是按呢！
+Thâu-ke: “Guân-lâi sī án-ne! 
 
 你嘛講予清楚，
 Lí mā kóng hōo tshing-tshó, 
@@ -117,23 +99,23 @@ Lí mā kóng hōo tshing-tshó,
 我想講彼……好啦！
 guá siūnn-kóng he... hó --lah! 
 
-若欲就算你較俗的——四十五就好，
-Nā beh tō sǹg lí khah sio̍h --ê── sì-tsa̍p-gōo tō hó, 
+若欲就算你較俗的——#四十五#就好，
+Nā beh tō sǹg lí khah sio̍k --ê── #sì-tsa̍p-gōo# tō hó, 
 
 欲無？」
 beh --bô?”
 
-相透濫的臺灣話 
-Sio thàu-lām ê Tâi-uân uē
+相透濫的#臺灣話#
+Sio thàu-lām ê #Tâi-uân-uē#
 
-A-khoh佮A-bi-khoh 坐佇亭仔跤等bá-suh，
-A-khoh kah A-bi-khoh tsē tī tîng-á-kha tán bá-suh, 
+#A-khoh#佮#A-bi-khoh#坐佇亭仔跤等bá-suh，
+#A-khoh# kah #A-bi-khoh# tsē tī tîng-á-kha tán bá-suh, 
 
-一時仔囝E-oh參Thā-khe-oh嘛到位，
-tsi̍t-sî-á-kiánn E-oh tsham Thā-khe-oh mā kàu-uī, 
+一時仔囝#E-oh#參#Thā-khe-oh#嘛到位，
+tsi̍t-sî-á-kiánn #E-oh# tsham #Thā-khe-oh# mā kàu-uī, 
 
-阮五个攏欲坐塭底往礁溪的頭幫車。
-guán gōo ê lóng beh tsē Ùn-té óng Ta-khe ê thâu-pang-tshia.
+阮五个攏欲坐#塭底#往#礁溪#的頭幫車。
+guán gōo ê lóng beh tsē #Ùn-té# óng #Ta-khe# ê thâu-pang-tshia.
 
 這台車真新，
 Tsit tâi tshia tsin sin,
@@ -141,8 +123,8 @@ Tsit tâi tshia tsin sin,
 開起來無啥聽著ia̋n-jín的聲，
 khui --khí-lâi bô siánn thiann-tio̍h ia̋n-jín ê siann, 
 
-運轉手叫做Ma-sah，
-ūn-tsuán-tshiú kiò-tsò Ma-sah, 
+運轉手叫做#Ma-sah#，
+ūn-tsuán-tshiú kiò-tsò #Ma-sah#, 
 
 一下上車就佮阮相借問，
 tsi̍t-ē tsiūnn-tshia tō kah guán sio-tsioh-mn̄g, 
@@ -156,17 +138,17 @@ ha̋n-tóo-luh huānn kah tsāi-tsāi-tsāi,
 嗚！
 Oo! 
 
-佮一台thō-lá-khuh相閃，
-Kah tsi̍t tâi thō-lá-khuh sio-siám, 
+佮一台thoo-lá-khuh相閃，
+Kah tsi̍t tâi thoo-lá-khuh sio-siám, 
 
 伊就駛較邊仔。
 i tō sái khah pinn--á. 
 
-一睏仔就到淇武蘭，
-Tsi̍t-khùn-á tō kàu Kî-bú-lân, 
+一睏仔就到#淇武蘭#，
+Tsi̍t-khùn-á tō kàu #Kî-bú-lân#, 
 
-E-oh參Thā-khe-oh就落車，
-E-oh tsham Thā-khe-oh tō lo̍h-tshia, 
+#E-oh#參#Thā-khe-oh#就落車，
+#E-oh# tsham #Thā-khe-oh# tō lo̍h-tshia, 
 
 換一个oo-jí-sáng佮oo-ba-sáng peh上車頂。
 uānn tsi̍t ê oo-jí-sáng kah oo-ba-sáng peh tsiūnn tshia-tíng.
@@ -177,8 +159,8 @@ Tsi̍t-ē khuànn tō tsai,
 這个oo-jí-sáng佮oo-bá-sáng是一對翁仔姐，
 tsit ê oo-jí-sáng kah oo-bá-sáng sī tsi̍t tuì ang-á-tsiá, 
 
-in相𤆬欲去菜市仔買tham-a-toh 轉炒卵，
-in sio tshuā beh khì tshài-tshī-á bé tham-a-toh tńg tshá nn̄g, 
+in相𤆬欲去菜市仔買tha-má-toh轉炒卵，
+in sio tshuā beh khì tshài-tshī-á bé tha-má-toh tńg tshá nn̄g, 
 
 買mi-soh煮豆腐湯，
 bé mi-soh tsú tāu-hū thng,
@@ -186,14 +168,14 @@ bé mi-soh tsú tāu-hū thng,
 嘛欲去五金行買phiàn-tsì，
 mā beh khì ngóo-kim-hâng bé phiàn-tsì, 
 
-順紲提 lái-tà去灌ga-suh，
-sūn-suà the̍h lái-tà khì kuàn ga-suh, 
+順紲提 lài-tà去灌ga-suh，
+sūn-suà the̍h lài-tà khì kuàn ga-suh, 
 
-阮五个攏佇公所的車牌仔落車，
-guán gōo ê lóng tī kong-sóo ê tshia-pâi-á lo̍h-tshia, 
+阮#五#个攏佇公所的車牌仔落車，
+guán #gōo# ê lóng tī kong-sóo ê tshia-pâi-á lo̍h-tshia, 
 
-嘛講欲同齊坐十點二十彼幫車倒轉，
-mā kóng beh tâng-tsê tsē tsa̍p tiám jī-tsa̍p hit pang tshia tò-tńg, 
+嘛講欲同齊坐#十#點#二十#彼幫車倒轉，
+mā kóng beh tâng-tsê tsē #tsa̍p# tiám #jī-tsa̍p# hit pang tshia tò-tńg, 
 
 實在有夠拄好！
 si̍t-tsāi ū-kàu tú-hó!
@@ -207,8 +189,8 @@ Siánn-mih tsûn? Tshâ-pán kap ê hóng-á-tsûn.
 對佗來？
 Uì tó lâi?
 
-西班牙的安達魯西亞。
-Se-pan-gâ ê An-ta-luh-si-a.
+#西班牙#的#安達魯西亞#。
+#Se-pan-gâ# ê #An-ta-luh-si-a#.
 
 對歐洲到美洲，
 Uì Au-tsiu kàu Bí-tsiu,
@@ -216,14 +198,14 @@ Uì Au-tsiu kàu Bí-tsiu,
 駛過太平洋到亞洲，
 sái-kuè Thài-pîng-iûnn kàu A-tsiu,
 
-對上海來到宜蘭。
-uì Siōng-hái lâi-kàu Gî-lân.
+對#上海#來到#宜蘭#。
+uì #Siōng-hái# lâi-kàu #Gî-lân#.
 
 海風陣陣吹，布旗隨風飛，
 Hái-hong tsūn-tsūn tshue, pòo-kî suî hong pue,
 
-烏石港全全人，
-Oo-tsio̍h-káng tsuân-tsuân lâng,
+#烏石港#全全人，
+#Oo-tsio̍h-káng# tsuân-tsuân lâng,
 
 欲看彼隻板仔船，
 beh khuànn hit tsiah pán-á-tsûn,
@@ -252,8 +234,8 @@ Tsiok lín khuài-lo̍k lâi tshut-phâng!
 古城新世紀
 Kóo-siânn sin sè-kí
 
-蘭陽平原頭城鎮，
-Lân-iâng pîng-guân Thâu-siânn-tìn,
+#蘭陽#平原頭城鎮，
+#Lân-iâng# pîng-guân Thâu-siânn-tìn,
 
 自古倚佇好位置，
 tsū kóo uá tī hó uī-tì,
@@ -279,11 +261,11 @@ nǹg kuè Thài-pîng-iûnn tsi̍t-bān nn̄g-tshing lí.
 立足家鄉看天下，
 Li̍p-tsiok ka-hiong khuànn thian-hā,
 
-迵到美國、日本、東南亞，
-thàng kàu Bí-kok, Ji̍t-pún, Tang-lâm-a,
+迵到#美國#、#日本#、東南亞，
+thàng kàu #Bí-kok#, #Ji̍t-pún#, Tang-lâm-a,
 
-菲律賓、澳洲、紐西蘭，
-Hui-lu̍t-pin, Ò-tsiu, liú-se-lân,
+#菲律賓#、#澳洲#、#紐西蘭#，
+#Hui-lu̍t-pin#, #Ò-tsiu#, #Niú-se-lân#,
 
 國際動靜分秒無精差。
 kok-tsè tōng-tsīng hun bió bô tsing-tsha.
@@ -297,8 +279,8 @@ tsiáng-ak bī-lâi ê hó sî-ki,
 海水溢來閣溢去，
 hái-tsuí ik lâi koh ik khì,
 
-佇遮——咱做伙創造臺灣的新世紀。
-tī tsia—— lán tsò-hué tshòng-tsō Tâi-uân ê sin sè-kí.
+佇遮——咱做伙創造#臺灣#的新世紀。
+tī tsia—— lán tsò-hué tshòng-tsō #Tâi-uân# ê sin sè-kí.
 
 一條路
 Tsi̍t tiâu lōo
@@ -384,8 +366,8 @@ tsik-kong--á, tsím-pô--á, a-peh, a-ḿ lâi hō-lé,
 講阮後日仔會𠢕讀冊。
 kóng guán āu-ji̍t-á ē gâu tha̍k-tsheh.
 
-四月日，
-Sì gue̍h ji̍t,
+#四#月日，
+#Sì# gue̍h ji̍t,
 
 穿新衫佮新鞋，
 tshīng sin sann kah sin ê,
@@ -396,8 +378,8 @@ thì-thâu siu-nuā ām piánn pun ta̍k-ke,
 講著收瀾收離離後改才會招小弟。
 kóng-tio̍h siu-nuā siu-lī-lī āu-kái tsiah ē tsio sió-tī.
 
-一歲度晬，
-Tsi̍t huè tōo-tsè,
+#一#歲度晬，
+#Tsi̍t# huè tōo-tsè,
 
 外媽禮數有夠濟，
 guā-má lé-sòo ū-kàu tsē,
@@ -420,8 +402,8 @@ lāu-su kà guán
 一點仔攏毋是假的。
 tsi̍t-tiám-á lóng m̄ sī ké--ê.
 
-宜蘭的百年老店
-Gî-lân ê pah nî lāu tiàm
+#宜蘭#的百年老店
+#Gî-lân# ê pah nî lāu tiàm
 
 時代咧進步，行業是百百種，
 Sî-tāi teh tsìn-pōo, hâng-gia̍p sī pah-pah-tsióng,
@@ -444,8 +426,8 @@ Sóo-í, ē-tàng king-îng pah nî ê lāu tiàm,
 一定愛有伊的特色。
 it-tīng ài ū i ê ti̍k-sik.
 
-宜蘭的氣候佮土地，
-Gî-lân ê khì-hāu kah thóo-tē,
+#宜蘭#的氣候佮土地，
+#Gî-lân# ê khì-hāu kah thóo-tē,
 
 適合種金棗、桔仔、李仔和楊桃。
 sik-ha̍p tsìng kim-tsó, kiat-á, lí-á hām iûnn-tô.
@@ -468,11 +450,11 @@ iáu-koh ē-tàng jūn-âu tī sàu,
 受著逐家的歡迎，
 siū-tio̍h ta̍k-ke ê huan-gîng,
 
-成做宜蘭真時行的伴手禮。
-tsiânn-tsò Gî-lân tsin sî-kiânn ê phuānn-tshiú-lé.
+成做#宜蘭#真時行的伴手禮。
+tsiânn-tsò #Gî-lân# tsin sî-kiânn ê phuānn-tshiú-lé.
 
-所以，宜蘭的「鹹酸甜」真出名，
-Sóo-í, Gî-lân ê “kiâm-sng-tinn” tsin tshut-miâ,
+所以，#宜蘭#的「鹹酸甜」真出名，
+Sóo-í, #Gî-lân# ê “kiâm-sng-tinn” tsin tshut-miâ,
 
 一寡仔百年老店，
 tsi̍t-kuá-á pah nî lāu tiàm,
@@ -480,11 +462,11 @@ tsi̍t-kuá-á pah nî lāu tiàm,
 就按呢代代流傳落來。
 tsiū-án-ne tāi-tāi liû-thuân --lo̍h-lâi.
 
-宜蘭農田水圳 
-Gî-lân lông-tiân tsuí-tsùn
+#宜蘭#農田水圳 
+#Gî-lân# lông-tiân tsuí-tsùn
 
-蘭陽平洋的水田攏是用來佈稻仔，
-Lân-iâng pênn-iûnn ê tsuí-tshân lóng sī iōng-lâi pòo-tiū-á, 
+#蘭陽#平洋的水田攏是用來佈稻仔，
+#Lân-iâng# pênn-iûnn ê tsuí-tshân lóng sī iōng-lâi pòo-tiū-á, 
 
 田的水靠水溝破落來，
 tshân ê tsuí khò tsuí-kau phuà --lo̍h-lâi, 
@@ -495,38 +477,41 @@ tsia ê tsuí-kau tsin tsē lóng uá tī tuā-lōo-kînn ia̍h-sī tshân-huān
 過路的人真少用目睭去共眼一下。
 kuè lōo ê lâng tsin tsió iōng ba̍k-tsiu khì kā gán --tsi̍t-ē.
 
-宜蘭出名的農田水圳有萬長春圳，
-Gî-lân tshut-miâ ê lông-tiân tsuí-tsùn ū Bān-tióng-tshun-tshùn, 
+#宜蘭#出名的農田水圳有#萬長春圳#，
+#Gî-lân# tshut-miâ ê lông-tiân tsuí-tsùn ū #Bān-tióng-tshun-tshùn#, 
 
-這條圳是引羅東溪佮蘭陽溪的水，
-tsit tiâu tsùn sī ín Lô-tong-khe kah Lân-iâng-khe ê suí, 
+這條圳是引#羅東溪#佮#蘭陽溪#的水，
+tsit tiâu tsùn sī ín #Lô-tong-khe# kah #Lân-iâng-khe# ê suí, 
 
-流過二結、三結一帶，
-lâu kuè Jī-kiat, Sann-kiat it tài, 
+流過#二結#、#三結#一帶，
+lâu kuè #Jī-kiat#, #Sann-kiat# it tài, 
 
-五結鄉的水田三份兩攏靠這條水圳來種作。
-Gōo-kiat-hiong ê tsuí-tshân sann-hūn-nn̄g lóng khò tsit tiâu tsuí-tsùn lâi tsìng-tsoh. 
+#五結鄉#的水田三分兩攏靠這條水圳來種作。
+#Gōo-kiat-hiong# ê tsuí-tshân sann hun nn̄g lóng khò tsit tiâu tsuí-tsùn lâi tsìng-tsoh. 
 
-佇宜蘭橋跤的宜蘭河有一條水駁，
-Tī Gî-lân-kiô-kha ê Gî-lân-hô ū tsi̍t tiâu tsuí-poh, 
+佇#宜蘭橋跤#的#宜蘭河#有一條水駁，
+Tī #Gî-lân-kiô-kha# ê #Gî-lân-hô# ū tsi̍t tiâu tsuí-poh, 
 
 伊會使得閘真濟水，
 i ē-sái-tit tsa̍h tsin tsē tsuí, 
 
-作田人共號做「南流埤」，
-tsoh-tshân-lâng kā hō-tsò “Lâm-lâu-pi”, 
+作田人共號做「#南流埤#」，
+tsoh-tshân-lâng kā hō-tsò “#Lâm-lâu-pi#”, 
 
 所閘落來的水軁過駁岸，
 sóo tsa̍h --lo̍h-lâi ê tsuí nǹg-kuè poh-huānn, 
 
-流入去充館圳，
-lâu ji̍p-khì Tshiong-kuán-tsùn, 
+流入去#充館圳#，
+lâu ji̍p-khì #Tshiong-kuán-tsùn#, 
 
-予宜蘭市七張仔，
-hōo Gî-lân-tshī Tshit-tiunn-á, 
+予#宜蘭市##七張仔#，
+hōo #Gî-lân-tshī# #Tshit-tiunn-á#, 
 
-壯圍的五間、功勞、古亭畚佮礁溪的茅埔、塭底，
-Tsòng-uî ê Gōo-king, Kong-lô, Kóo-tîng-pūn kah Ta-khe ê Hm̂-poo, ùn-té, 
+#壯圍#的#五間#、#功勞#、#古亭畚#
+#Tsòng-uî# ê #Gōo-king#, #Kong-lô#, #Kóo-tîng-pūn# 
+
+佮#礁溪#的#茅埔#、#塭底#，
+kah #Ta-khe# ê #Hm̂-poo#, #Ùn-té#, 
 
 一大片的農田有水通用。
 tsi̍t tuā phiàn ê lông-tiân ū tsuí thang īng.
@@ -540,17 +525,17 @@ siōng tiōng-iàu--ê sī ài ū tsin pá ê tsuí-guân,
 嘛愛有穩固的溝岸，
 mā ài ū ún-kòo ê kau-huānn, 
 
-咱祖先佇兩、三百年前就知影按呢做，
-lán tsóo-sian tī nn̄g, sann pah nî tsîng tō tsai-iánn án-ne tsò, 
+咱祖先佇#兩#、#三百#年前就知影按呢做，
+lán tsóo-sian tī #nn̄g#, #sann-pah# nî tsîng tō tsai-iánn án-ne tsò, 
 
 所以講「飲水思源頭」是真要緊的一句話。
 sóo-í kóng “Ím suí su guân-thâu” sī tsin iàu-kín ê tsi̍t kù uē.
 
-宜蘭詩選
-Gî-lân si-suán
+#宜蘭#詩選
+#Gî-lân# si-suán
 
-龜山朝日 
-Ku-suann tiau-ji̍t 
+#龜山#朝日 
+#Ku-suann# tiau-ji̍t 
 
 曉峰高出半天橫，
 Hiáu hong ko tshut puàn thian hîng,
@@ -564,14 +549,14 @@ It ia̍p koo huân san hā kò,
 遙看紅日碧濤生。
 iâu khàn hông ji̍t phik tô sing.
 
-三貂 
-Sam-tiau
+#三貂 #
+#Sam-tiau#
 
 想像三峰天外嶢，
 Sióng-siōng sam hong thian guē giâu,
 
-現從島國指三貂；
-hiān tsiông tó-kok tsí Sam-tiau;
+現從島國指#三貂#；
+hiān tsiông tó-kok tsí #Sam-tiau#;
 
 猿梯直上雲千仞，
 uân the ti̍t siōng hûn tshian jīn,
@@ -591,11 +576,11 @@ luē-san tsiâu kìng lâi tê khik,
 說距新莊只兩朝。
 suat kī Sin-tsong tsí lióng-tiau.
 
-五峰瀑布
-Ngóo hong pho̍k-pò͘
+#五峰#瀑布
+#Ngóo-hong# pho̍k-pò͘
 
-五峰瀑布懸中天
-Ngóo hong pho̍k-pò͘ hiân tiong thian
+#五峰#瀑布懸中天
+#Ngóo-hong# pho̍k-pò͘ hiân tiong thian
 
 六月清蒼山色鮮
 Lio̍k-gua̍t tshing-tshong san-sik sian
@@ -606,8 +591,8 @@ iu-kok khe-sing liû put sit
 白雲深處有神仙
 pe̍h-hûn tshim tshù iú sîn-sian
 
-蘭陽野望
-Lân-iâng iá bōng
+#蘭陽#野望
+#Lân-iâng# iá bōng
 
 青天白鷺映花紅
 Tshing-thian pi̍k-lōo ìng hua hông
@@ -621,11 +606,11 @@ Hái-siōng kui-hong khuà to̍k-li̍p
 萬山如畫碧雲中
 Bān san jû uē  phik-hûn tiong
 
-龍潭印月
-Lîng-thâm ìn gua̍t
+#龍潭#印月
+#Lîng-thâm# ìn gua̍t
 
-龍潭碧水玉壺清
-Lîng-thâm phik-suí gio̍k-ôo tshing
+#龍潭#碧水玉壺清
+#Lîng-thâm# phik-suí gio̍k-ôo tshing
 
 印得秋空兩月明
 Ìn tik tshiu khong lióng gua̍t bîng

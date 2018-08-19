@@ -1,16 +1,19 @@
 790 趣味台語選集
 
-8夢中討錢
-8 Bāng-tiong thó tsînn
+#8#夢中討錢
+#8# Bāng-tiong thó tsînn
 
-阿明有一日做夢。
-A-bîng ū tsi̍t ji̍t tsò-bāng.
+#阿明#有#一#日做夢。
+#A-bîng# ū #tsi̍t# ji̍t tsò-bāng.
 
-佇夢中有人提九張一百箍的紙票予伊。
-Tī bāng-tiong ū lâng the̍h káu tiunn tsi̍t-pah khoo ê tsuá-phiò hōo i.
+佇夢中有人提#九#張#一百#箍
+Tī bāng-tiong ū lâng the̍h #káu# tiunn #tsi̍t-pah# khoo 
 
-伊就講：「閣加一張予我好無？」
-I tō kóng: “Koh ke tsi̍t tiunn hōo guá hó --bô?”
+的紙票予伊。
+ê tsuá-phiò hōo i.
+
+伊就講：「閣加#一#張予我好無？」
+I tō kóng: “Koh ke #tsi̍t# tiunn hōo guá hó --bô?”
 
 咧講話的時煞醒起來，
 Teh kóng-uē ê sî suah tshénn --khí-lâi,
@@ -18,20 +21,20 @@ Teh kóng-uē ê sî suah tshénn --khí-lâi,
 當伊看著伊厝內空空，
 tng i khuànn-tio̍h i tshù-lāi khang-khang,
 
-連一張都無的時，
-liân tsi̍t tiunn to bô ê sî,
+連#一#張都無的時，
+liân #tsi̍t# tiunn to bô ê sî,
 
 趕緊目睭共合起來，
 kuánn-kín ba̍k-tsiu kā ha̍p --khí-lâi,
 
-講：「予我九張就好。」
-kóng: “Hōo guá káu tiunn tō hó.”
+講：「予我#九#張就好。」
+kóng: “Hōo guá #káu# tiunn tō hó.”
 
 
 
 
-11結果
-11 Kiat-kó
+#11#結果
+#11# Kiat-kó
 
 老師講：
 Lāu-su kóng:
@@ -39,11 +42,11 @@ Lāu-su kóng:
 「現在咱來做應用問題，
 “Hiān-tsāi lán lâi tsò ìng-iōng būn-tê,
 
-大兄有五粒蘋果，
-tuā-hiann ū gōo lia̍p phōng-kó,
+大兄有#五#粒蘋果，
+tuā-hiann ū #gōo# lia̍p phōng-kó,
 
-去予小弟食三粒去，
-khì hōo sió-tī tsia̍h sann lia̍p --khì,
+去予小弟食#三#粒去，
+khì hōo sió-tī tsia̍h #sann# lia̍p --khì,
 
 結果按怎？」
 kiat-kó án-nuá?”
@@ -57,62 +60,92 @@ Ha̍k-sing huê-tap kóng:
 
 
 
-13好捋的番仔火
-13 Hó lua̍h ê huan-á-hué
+#13#好捋的番仔火
+#13# Hó lua̍h ê huan-á-hué
 
-阿公：「阿明，番仔火有買轉來無？」
-A-kong: “A-bîng, huan-á-hué ū bé --tńg-lâi --bô?”
+阿公：「#阿明#，番仔火有買轉來無？」
+A-kong: “#A-bîng#, huan-á-hué ū bé --tńg-lâi --bô?”
 
-阿明：「買轉來矣，阿公。」
-A-bîng: “Bé --tńg-lâi --ah, a-kong.”
+#阿明#：「買轉來矣，阿公。」
+#A-bîng#: “Bé --tńg-lâi --ah, a-kong.”
 
 阿公：「番仔火好捋無？」
 A-kong: “Huan-á-hué hó lua̍h --bô?”
 
-阿明：「逐枝攏真好捋，一捋就著，我一枝一枝攏試過矣。」
-A-bîng: “Ta̍k ki lóng tsin hó lua̍h, tsi̍t lua̍h tō to̍h, guá tsi̍t ki tsi̍t ki lóng tshì--kuè --ah.”
+#阿明#：「逐枝攏真好捋，
+#A-bîng#: “Ta̍k ki lóng tsin hó lua̍h, 
+
+一捋就著，我#一#枝#一#枝攏試過矣。」
+tsi̍t lua̍h tō to̍h, guá #tsi̍t# ki #tsi̍t# ki lóng tshì--kuè --ah.”
 
 
 
 
-23後代烏白鬥
-23 Hiō-tāi oo-pe̍h tàu
+#23#後代烏白鬥
+#23# Hiō-tāi oo-pe̍h tàu
 
-有一陣文武官員咧看「七擒孟獲」的川劇。
-Ū tsi̍t tīn bûn-bú kuann-uân teh khuànn “Tshit khîm Bīng-hi̍k” ê Tshuan-kio̍k. 
+有一陣文武官員咧看
+Ū tsi̍t tīn bûn-bú kuann-uân teh khuànn 
 
-一个武官講：「真想袂到，孟子的後代孟獲竟然遮爾野蠻。」
-Tsi̍t ê bú-kuann kóng: “Tsin siūnn bē kàu, Bīng-tsú ê hiō-tāi Bīng-hi̍k kìng-jiân tsiah-nī iá-bân.”
+「#七#擒孟獲」的川劇。
+“#Tshit# khîm Bīng-hi̍k” ê Tshuan-kio̍k. 
+
+#一#个武官講：
+#Tsi̍t# ê bú-kuann kóng: 
+
+「真想袂到，
+“Tsin siūnn bē kàu, 
+
+#孟子#的後代#孟獲#竟然遮爾野蠻。」
+#Bīng-tsú# ê hiō-tāi #Bīng-hi̍k# kìng-jiân tsiah-nī iá-bân.”
 
 眾人聽了，攏笑起來。
 Tsìng-lâng thiann liáu, lóng tshiò --khí-lâi.
 
-有一位文官就講：「你講了真著，猶是孔子的後代孔明較𠢕，較勥。」
-Ū tsi̍t uī bûn-kuann tō kóng: “Lí kóng liáu tsin tio̍h, iáu sī Khióng-tsú ê hiō-tāi Khióng-bîng khah gâu, khah khiàng.”
+有#一#位文官就講：
+Ū #tsi̍t# uī bûn-kuann tō kóng: 
+
+「你講了真著，
+“Lí kóng liáu tsin tio̍h, 
+
+猶是#孔子#的後代#孔明#較𠢕，
+iáu sī #Khióng-tsú# ê hiō-tāi #Khióng-bîng# khah gâu, 
+
+較勥。」
+khah khiàng.”
 
 
 
 
-25看病
-25 Khuànn pēnn
+#25#看病
+#25# Khuànn pēnn
 
-馬先生去病院看病，伊嚨喉疼，
-Má --sian-sinn khì pēnn-īnn khuànn-pēnn, i nâ-âu thiànn, 
+#馬#先生去病院看病，
+#Má# --sian-sinn khì pēnn-īnn khuànn-pēnn, 
+
+伊嚨喉疼，
+i nâ-âu thiànn, 
 
 醫生共伊做詳細的檢查了後，
 i-sing kā i tsò siông-sè ê kiám-tsa liáu-āu,
 
-對伊講：「你的扁桃腺發炎，上好共割掉。」
-tuì i kóng: “Lí ê pín-thô-suànn huat-iām, siōng hó kā kuah-tiāu.”
+對伊講：「你的扁桃腺發炎，
+tuì i kóng: “Lí ê pín-thô-suànn huat-iām, 
 
-手術了後無偌久，馬先生就恢復健康，
-Tshiú-su̍t liáu-āu bô-guā-kú, Má --sian-sinn tō khue-ho̍k kiān-khong,
+上好共割掉。」
+siōng hó kā kuah-tiāu.”
+
+手術了後無偌久，
+Tshiú-su̍t liáu-āu bô-guā-kú, 
+
+#馬#先生就恢復健康，
+#Má# --sian-sinn tō khue-ho̍k kiān-khong,
 
 但是，閣過半年換做伊的腹肚疼，
 tān-sī, koh kuè puànn-nî uānn-tsò i ê pak-tóo thiànn,
 
-而且攏是仝一个所在咧疼，
-jî-tshiánn lóng sī kāng tsi̍t ê sóo-tsāi teh thiànn,
+而且攏是仝#一#个所在咧疼，
+jî-tshiánn lóng sī kāng #tsi̍t# ê sóo-tsāi teh thiànn,
 
 只好閣來揣醫生，
 tsí-hó koh lâi tshuē i-sing,
@@ -120,44 +153,59 @@ tsí-hó koh lâi tshuē i-sing,
 醫生講：「你的盲腸發炎，愛割掉。」
 i-sing kóng: “Lí ê môo-tn̂g huat-iām, ài kuah-tiāu.”
 
-馬先生就動手術，共盲腸割掉。
-Má --sian-sinn tō tāng tshiú-su̍t, kā môo-tn̂g kuah-tiāu.
+#馬#先生就動手術，共盲腸割掉。
+#Má# --sian-sinn tō tāng tshiú-su̍t, kā môo-tn̂g kuah-tiāu.
 
-過幾個月了後，馬先生又閣轉來揣醫生，
-Kuè kuí kò gue̍h liáu-āu, Má --sian-sinn iū-koh tńg--lâi tshuē i-sing,
+過幾個月了後，
+Kuè kuí kò gue̍h liáu-āu, 
+
+#馬#先生又閣轉來揣醫生，
+#Má# --sian-sinn iū-koh tńg--lâi tshuē i-sing,
 
 醫生問伊講：
 i-sing mn̄g i kóng:
 
-「馬先生，你又閣按怎矣？佗位無爽快？」
-“Má --sian-sinn, lí iū-koh án-tsuánn --ah? Tó-uī bô sóng-khuài?”
+「#馬#先生，你又閣按怎矣？
+“Má --sian-sinn, lí iū-koh án-tsuánn --ah? 
 
-馬先生佯好膽講：
+佗位無爽快？」
+Tó-uī bô sóng-khuài?”
+
+#馬#先生佯好膽講：
 Má --sian-sinn tènn hó-tánn kóng:
 
-「先生啊，你知無？我攏毋敢共你講，我頭殼疼啦！」
-“Sian-sinn --ah, lí tsai --bô? Guá lóng m̄ kánn kā lí kóng, guá thâu-khak thiànn --lah!”
+「先生啊，你知無？
+“Sian-sinn --ah, lí tsai --bô? 
+
+我攏毋敢共你講，我頭殼疼啦！」
+Guá lóng m̄ kánn kā lí kóng, guá thâu-khak thiànn --lah!”
 
 
 
 
-8.酬謝遷居
-8.Siû siā tshian-ki 
+#8# 酬謝遷居
+#8# Siû siā tshian-ki 
 
-有一个人真驚吵，
-Ū tsi̍t ê lâng tsin kiann tshá,
+有#一#个人真驚吵，
+Ū #tsi̍t# ê lâng tsin kiann tshá,
 
 但是真歹運，
 tān-sī tsin pháinn-ūn,
 
 伊的厝拄拄夾佇拍鐵佮拍銅的中央。
-i ê tshù tú-tú ngeh tī phah-thih kap phah tâng ê tiong-ng.
+i ê tshù tú-tú ngeh tī phah-thih kap phah-tâng ê tiong-ng.
 
-對早起到暗時規日攏聽著拍鐵佮拍銅的聲，
-Uì tsá-khí kàu àm-sî kui ji̍t lóng thiann-tio̍h phah-thih kah phah tâng ê siann,
+對早起到暗時規日攏
+Uì tsá-khí kàu àm-sî kui ji̍t lóng 
 
-khı̍k-lı̍k kho̍k-kho̍k khı̍k-lı̍k kho̍k-kho̍k予in吵甲真艱苦。
-khı̍k-lı̍k kho̍k-kho̍k khı̍k-lı̍k kho̍k-kho̍k hōo in tshá kah tsin kan-khóo.
+聽著拍鐵佮拍銅的聲，
+thiann-tio̍h phah-thih kah phah-tâng ê siann,
+
+#khı̍k-lı̍k# #kho̍k-kho̍k# #khı̍k-lı̍k# #kho̍k-kho̍k#
+#khı̍k-lı̍k# #kho̍k-kho̍k# #khı̍k-lı̍k# #kho̍k-kho̍k# 
+
+予in吵甲真艱苦。
+hōo in tshá kah tsin kan-khóo.
 
 就常常講：
 Tō siông-siông kóng:
@@ -166,7 +214,7 @@ Tō siông-siông kóng:
 “Tsit nn̄g ke nā puann-tshù, guá it-tīng beh tshiánn in 
 
 食飯來共in餞別相辭。」
-tsia̍h-pn̄g lâi kā in tsiàn-pia̍t sann-sî.”
+tsia̍h-pn̄g lâi kā in tsiān-pia̍t sann-sî.”
 
 有一日，這兩个師傅做伙來伊的厝裡共伊講：
 Ū tsi̍t ji̍t, tsit nn̄g ê sai-hū tsò-hué lâi i ê tshù--lí kā i kóng:
@@ -204,11 +252,14 @@ Tshù-pinn ìn kóng:
 
 
 
-10.天國（二）
-10.Thinn kok (jī)
+#10#天國（二）
+#10# Thinn kok (jī)
 
-有一早起，當這个老阿婆佇灶跤咧做代誌的時，
-Ū tsi̍t tsá-khí, tng tsit ê lāu a-pô tī tsàu-kha teh tsò tāi-tsì ê sî,
+有一早起，
+Ū tsi̍t tsá-khí, 
+
+當這个老阿婆佇灶跤咧做代誌的時，
+tng tsit ê lāu a-pô tī tsàu-kha teh tsò tāi-tsì ê sî,
 
 in囝入來共伊講欲出去。
 in kiánn ji̍p-lâi kā i kóng beh tshut-khì.
@@ -234,8 +285,11 @@ Koh ti̍k-pia̍t huan-hù kóng:
 心肝袂凊彩，
 sim-kuann bē tshìn-tshái,
 
-所以我欲來去尋一个仙共我指示按怎來予阮某快樂起來，
-sóo-í guá beh lâi-khì siâm tsi̍t ê sian kā guá tsí-sī án-tsuánn lâi hōo guán bóo khuài-lo̍k khí-lâi,
+所以我欲來去尋#一#个仙
+sóo-í guá beh lâi-khì siâm #tsi̍t# ê sian 
+
+共我指示按怎來予阮某快樂起來，
+kā guá tsí-sī án-tsuánn lâi hōo guán bóo khuài-lo̍k khí-lâi,
 
 予伊較幸福咧！」
 hōo i khah hīng-hok --leh!”
@@ -246,14 +300,14 @@ Tsit ê kiánn tō tshut-mn̂g khì siâm,
 伊行真久真久。
 i kiânn tsin kú tsin kú.
 
-有一日行到一个真拋荒，
-Ū tsi̍t ji̍t kiânn kàu tsi̍t ê tsin pha-hng,
+有#一#日行到#一#个真拋荒，
+Ū #tsi̍t# ji̍t kiânn kàu #tsi̍t# ê tsin pha-hng,
 
 無啥物人蹛的山莊。
 bô siánn-mih lâng tuà ê san-tsong.
 
-佇遐伊聽講有蹛著一个真有智慧的老人，
-Tī hia i thiann-kóng ū tuà tio̍h tsi̍t ê tsin ū tì-huī ê lāu-lâng,
+佇遐伊聽講有蹛著#一#个真有智慧的老人，
+Tī hia i thiann-kóng ū tuà-tio̍h #tsi̍t# ê tsin ū tì-huī ê lāu-lâng,
 
 伊就去拜訪這个老人。
 i tō khì pài-hóng tsit ê lāu-lâng.
@@ -261,8 +315,8 @@ i tō khì pài-hóng tsit ê lāu-lâng.
 這个老人頭毛白甲若雪，
 Tsit ê lāu-lâng thâu-mn̂g pe̍h kah nā seh,
 
-喙鬚真長，穿一軀已經過時代的衫。
-tshuì tshiu tsin tn̂g, tshīng tsi̍t su í-king kuè sî-tāi ê sann.
+喙鬚真長，穿#一#軀已經過時代的衫。
+tshuì tshiu tsin tn̂g, tshīng #tsi̍t# su í-king kuè sî-tāi ê sann.
 
 這个囝就想講：「這个一定是仙。」
 Tsit ê kiánn tō siūnn-kóng: “Tsit ê it-tīng sī sian.”
@@ -282,17 +336,17 @@ sim-tsîng bē tshìn-tshái ê hong-huat.
 這个老人應講，
 Tsit ê lāu-lâng ìn kóng,
 
-「但是，佇你家己的厝內有一个仙。
-“Tān-sī, tī lí ka-kī ê tshù-lāi ū tsi̍t ê sian.
+「但是，佇你家己的厝內有#一#个仙。
+“Tān-sī, tī lí ka-kī ê tshù-lāi ū #tsi̍t# ê sian.
 
 你就較緊轉去看！
 Lí tō khah kín tńg-khì khuànn!
 
-這个聖人穿一領破糊糊的衫，
-Tsit ê sìng-jîn tshīng tsi̍t niá phuà-kôo-kôo ê sann,
+這个聖人穿#一#領破糊糊的衫，
+Tsit ê sìng-jîn tshīng #tsi̍t# niá phuà-kôo-kôo ê sann,
 
-是一个活活的神仙，
-sī tsi̍t ê ua̍h-ua̍h ê sîn-sian,
+是#一#个活活的神仙，
+sī #tsi̍t# ê ua̍h-ua̍h ê sîn-sian,
 
 伊會當幫助你尋著幸福。」
 i ē-tàng pang-tsōo lí siâm-tio̍h hīng-hok.”
@@ -300,17 +354,20 @@ i ē-tàng pang-tsōo lí siâm-tio̍h hīng-hok.”
 這个老人就按呢行徙走。
 Tsit ê lāu-lâng tsiū-án-ne kiânn-suá tsáu.
 
-這个囝也就趕緊走轉去伊的厝欲看這个活活的神仙。
-Tsit ê kiánn iā tō kuánn-kín tsáu tńg-khì i ê tshù beh khuànn tsit ê ua̍h-ua̍h ê sîn-sian.
+這个囝也就趕緊走轉去伊的厝欲
+Tsit ê kiánn iā tō kuánn-kín tsáu tńg-khì i ê tshù beh 
+
+看這个活活的神仙。
+khuànn tsit ê ua̍h-ua̍h ê sîn-sian.
 
 但是當伊進入厝裡的時，
 Tān-sī tng i tsìn-ji̍p tshù--lí ê sî,
 
-伊所看著的是伊的老母穿一軀破衫，
-i sóo khuànn--tio̍h ê sī i ê lāu-bú tshīng tsi̍t su phuà sann,
+伊所看著的是伊的老母穿#一#軀破衫，
+i sóo khuànn--tio̍h ê sī i ê lāu-bú tshīng #tsi̍t# su phuà sann,
 
-一雙破鞋，佇遐真拍拚咧做工課。
-tsi̍t siang phuà ê, tī hia tsin phah-piànn teh tsò khang-khuè.
+#一#雙破鞋，佇遐真拍拚咧做工課。
+#tsi̍t# siang phuà ê, tī hia tsin phah-piànn teh tsò khang-khuè.
 
 佇彼个時陣伊才曉悟彼个老大人的意思，
 Tī hit ê sî-tsūn i tsiah hiáu-ngōo hit ê lāu-tuā-lâng ê ì-sù,
@@ -336,8 +393,8 @@ in ê tshù iā tsū án-ne tshiong-buán tio̍h hīng-hok kap khuài-lo̍k.
 
 
 
-15.我是死者的老爸
-15. Guá sī sí-tsiá ê lāu-pē 
+#15#我是死者的老爸
+#15# Guá sī sí-tsiá ê lāu-pē 
 
 街裡發生車禍，
 Ke--lí huat-sing tshia-hō, 
@@ -348,8 +405,8 @@ uî kah tsi̍t-tuā-tui lâng,
 攏無法度通出入。
 lóng bô-huat-tōo thang tshut-ji̍p. 
 
-有一个愛看鬧熱的人較慢來。
-Ū tsi̍t ê ài khuànn lāu-jia̍t ê lâng khah bān lâi.
+有#一#个愛看鬧熱的人較慢來。
+Ū #tsi̍t# ê ài khuànn lāu-jia̍t ê lâng khah bān lâi.
 
 伊拚性命用手將別人共捒去邊仔。
 I piànn-sènn-miā iōng tshiú tsiong pa̍t-lâng kā sak khì pinn--á.

@@ -195,11 +195,11 @@ siōng sim-sik --ê sī ah-tīn lóng thiann ē-hiáu tsú-lâng ê kiò-siann,
 一人叫一款，
 tsi̍t lâng kiò tsi̍t khuán, 
 
-親像：#O ba ba ba#，
-tshin-tshiūnn: #O ba ba ba#, 
+親像：#O# #ba# #ba# #ba#，
+tshin-tshiūnn: #O# #ba# #ba# #ba#, 
 
-抑是：#O o o ba ba ba#等等的叫聲。
-ia̍h-sī : #O o o ba ba ba# tíng-tíng ê kiò-siann. 
+抑是：#O# #o# #o# #ba# #ba# #ba#等等的叫聲。
+ia̍h-sī : #O# #o# #o# #ba# #ba# #ba# tíng-tíng ê kiò-siann. 
 
 因為溪裡有真濟鴨的食物，
 In-uī khe--lí ū tsin tsē ah ê tsia̍h-mi̍h,

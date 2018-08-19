@@ -40,13 +40,13 @@ Ni-bú.
 Hannh?
 
 阮媽媽咧？
-Gún ma--mah --leh?
+Gún má-mah --leh?
 
 毋通吵伊，
 M̄-thang tshá --i, 
 
 媽媽人艱苦，
-ma--mah lâng kan-khóo, 
+má-mah lâng kan-khóo, 
 
 這陣入去內面食藥。
 tsit-tsūn ji̍p-khì lāi-bīn tsia̍h io̍h.
@@ -55,7 +55,7 @@ tsit-tsūn ji̍p-khì lāi-bīn tsia̍h io̍h.
 Ooh, 
 
 爸爸！
-Pa--pah!
+Pá-pah!
 
 Mh？
 Mh? 
@@ -166,10 +166,10 @@ thâu-ke --ah,
 m̄-thang phah --lah.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 媽媽。
-ma--mah.
+má-mah.
 
 毋通啦，
 M̄-thang --lah. 
@@ -181,22 +181,22 @@ Thâu-ke --ah,
 m̄-thang.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 媽媽、
-ma--mah, 
+má-mah, 
 
 媽媽，
-ma--mah, 
+má-mah, 
 
 莫拍啦。
 mài phah --lah. 
 
 媽媽、
-Ma--mah, 
+Má-mah, 
 
 媽媽。
-ma--mah.
+má-mah.
 
 頭家啊，
 Thâu-ke --ah, 
@@ -211,10 +211,10 @@ thâu-ke,
 thâu-ke --ah. 
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 你莫拍媽媽啦。
-lí mài phah ma--mah --lah.
+lí mài phah má-mah --lah.
 
 走啦。
 Tsáu --lah.
@@ -247,16 +247,16 @@ Hó --ah --lah.
 Tshut-khì --lah!
 
 媽媽、
-Ma--mah, 
+Má-mah, 
 
 媽媽、
-ma--mah, 
+má-mah, 
 
 媽媽、
-ma--mah, 
+má-mah, 
 
 媽媽！
-ma--mah!
+má-mah!
 
 恁這間是當時換頭家的，
 Lín tsit king sī tang-sî uānn thâu-ke --ê, 
@@ -730,7 +730,7 @@ lí tsit-má nā the̍h-khì hōo #Siù-kuan# --honnh,
 i tsua̍t-tuì m̄ kā lán the̍h --ê --lah, 
 
 等候in爸爸轉來咱才提予伊。
-tán-hāu in pa--pah tńg--lâi lán tsiah the̍h hōo --i.
+tán-hāu in pá-pah tńg--lâi lán tsiah the̍h hōo --i.
 
 Mh，
 Mh,
@@ -949,7 +949,7 @@ sing khì sé kha-tshiú.
 Hó. 
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 Mh，
 Mh, 
@@ -982,7 +982,7 @@ Leh khùn --ah.
 Leh khùn --ooh.
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 妹妹無牛奶矣。
 me--meh bô gû-ling --ah.
@@ -997,7 +997,7 @@ suah bē-kì-eh kóng bô gû-ni --ah.
 #Siù-kuan#, 
 
 爸爸已經揣有固定的頭路！
-pa--pah í-king tshē ū kòo-tīng ê thâu-lōo!
+pá-pah í-king tshē ū kòo-tīng ê thâu-lōo!
 
 有影？
 Ū-iánn?
@@ -1006,7 +1006,7 @@ pa--pah í-king tshē ū kòo-tīng ê thâu-lōo!
 Bîn-á-tsài tsiah sing kā thâu-ke tsioh kuí-tsa̍p khoo lâi bué gû-ni.
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 啊是啥物工作？
 ah sī siánn-mih kang-tsok?
@@ -1024,7 +1024,7 @@ Eh,
 ē --nooh! 
 
 爸爸佇咧學校喔，
-Pa--pah tī-leh ha̍k-hāu --ooh, 
+Pá-pah tī-leh ha̍k-hāu --ooh, 
 
 畫圖是上好的課你知毋！
 uē-tôo sī siōng hó ê khò lí tsai --m̄! 
@@ -1339,13 +1339,13 @@ Eh eh eh,
 tsin to-siā.
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 你哪毋食，
 lí ná m̄ tsia̍h, 
 
 爸爸？
-pa--pah?
+pá-pah?
 
 #秀娟#、#鴻文#，
 #Siù-kuan#, #Hông-bûn#, 
@@ -1360,7 +1360,7 @@ lán ài pat pa̍t-lâng ê lîn-tsîng!
 Guá tsai!
 
 過去爸爸太荒唐，
-Kè-khì pa--pah thài hong-tông, 
+Kè-khì pá-pah thài hong-tông, 
 
 毋捌好歹人，
 m̄ pat hó pháinn lâng, 
@@ -1369,7 +1369,7 @@ m̄ pat hó pháinn lâng,
 kin-á tsiah ē hāi lín lâi siū tsit ê khóo!
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 阮袂艱苦！
 gún buē kan-khóo!
@@ -1417,10 +1417,10 @@ lí phah-piànn tha̍k-tsu kiânn tsìng-lōo,
 tsiong-lâi tsuè tsi̍t ê ū-lōo-īng ê lâng, 
 
 爸爸就真歡喜矣，
-pa--pah tō tsin huann-hí --ah, 
+pá-pah tō tsin huann-hí --ah, 
 
 爸爸無論閣較怎樣一定會晟恁甲大漢，
-pa--pah bô-lūn koh-khah tsánn-iūnn it-tīng ē tshiânn lín kah tuā-hàn, 
+pá-pah bô-lūn koh-khah tsánn-iūnn it-tīng ē tshiânn lín kah tuā-hàn, 
 
 予恁佮別人仝款，
 hōo lín kah pa̍t-lâng kāng-khuán, 
@@ -1429,7 +1429,7 @@ hōo lín kah pa̍t-lâng kāng-khuán,
 tī-leh siā-huē siōng tsuè tsi̍t ê tsìng-tsìng-tong-tong ê lâng, 
 
 爸爸對#黃#家的祖先才會當贖罪。
-pa--pah tuì #N̂g# --ka ê tsóo-sian tsiah ē-tàng sio̍k-tsuē.
+pá-pah tuì #N̂g# --ka ê tsóo-sian tsiah ē-tàng sio̍k-tsuē.
 
 按呢啦！
 Án-ni--lah!
@@ -1453,16 +1453,16 @@ tsit-má tī-leh pīnn-īnn --lah!
 Hannh!
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸、
-pa--pah, 
+pá-pah, 
 
 爸爸。
-pa--pah.
+pá-pah.
 
 #秀娟#、#鴻文#，
 #Siù-kuan#, #Hông-bûn#, 
@@ -1480,10 +1480,10 @@ tsū kin-á-ji̍t khí,
 lín ài koh-khah kan-khóo kè li̍t-tsí.
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 爸爸真對不住恁，
-Pa--pah tsin tuì-put-tsū --lín, 
+Pá-pah tsin tuì-put-tsū --lín, 
 
 以後恁的日子欲怎樣過？
 í-āu lín ê li̍t-tsí beh tsánn-iūnn kè? 
@@ -1492,7 +1492,7 @@ Pa--pah tsin tuì-put-tsū --lín,
 Lín iá tsiah-nī sè-hàn.
 
 爸爸你答應我，
-Pa--pah lí tah-ìng --guá, 
+Pá-pah lí tah-ìng --guá, 
 
 予我來賣獎券，
 hōo guá lâi buē tsióng-kuàn, 
@@ -1507,13 +1507,13 @@ tshiánn lí m̄-thang siūnn-khì --honnh!
 #Siù-kuan#, 
 
 爸爸不該受氣，
-pa--pah put-kai siūnn-khì, 
+pá-pah put-kai siūnn-khì, 
 
 你遮爾會曉想，
 lí tsiah-nī ē-hiáu siūnn, 
 
 爸爸真感謝你，
-pa--pah tsin kám-siā --lí,
+pá-pah tsin kám-siā --lí,
 
 真予人想袂到，
 tsin hōo lâng siūnn buē kàu, 
@@ -1528,10 +1528,10 @@ beh phah-piànn hōo lín hīng-hok,
 suah lâi piàn án-ni.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸。
-pa--pah.
+pá-pah.
 
 #志明#啊，
 #Tsì-bîng# --ah, 
@@ -1549,7 +1549,7 @@ gún nn̄g ê ang-á-bóo ā bô sinn kah puànn ê,
 lí tī-leh pīnn-īnn ê tiong-ng, 
 
 這三个囡仔才予踮咧阮遐，
-tsit sann ê gín-á tsiah hōo tiàm-leh gún hia, 
+tsit sann ê gín-á tsiah hōo tiàm leh gún hia, 
 
 食糜配菜脯大概免煩惱啦，
 tsia̍h bê phè tshài-póo tāi-khài bián huân-ló --lah, 
@@ -1894,7 +1894,7 @@ Tsin to-siā!
 Buē --lah.
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 你下課矣是毋？ 
 Lí hā-khò --ah sī --m̄? 
@@ -1948,7 +1948,7 @@ buē!
 Tsin kuai!
 
 爸爸阮欲轉來矣！
-Pa--pah gún beh tńg--lâi --ah!
+Pá-pah gún beh tńg--lâi --ah!
 
 車真濟，
 Tshia tsin tsē,
@@ -1990,7 +1990,7 @@ Lí tsia̍h --lah!
 Gún beh lâi-khì --ah!
 
 爸爸#再見#，
-Pa--pah #再見#, 
+Pá-pah #再見#, 
 
 阿姆、
 a-ḿ,
@@ -2062,7 +2062,7 @@ Tsit tsuā guá tńg--lâi #Tâi-pak# khì lín tshù guá tsiah tsai-iánn.
 tsū lí lī-khui liáu-āu, 
 
 過無半個月阮媽媽就予人辭出來，
-kè bô puànn kò gue̍h gún ma--mah tō hōo lâng sî --tshut-lâi, 
+kè bô puànn kò gue̍h gún má-mah tō hōo lâng sî --tshut-lâi, 
 
 欲共你講，
 beh kā lí kóng, 
@@ -2092,7 +2092,7 @@ thiann in kóng puann-tshù --ah!
 lí bián sàng --ah, 
 
 媽媽照顧予好較要緊，
-ma--mah tsiàu-kòo hōo hó khah iàu-kín, 
+má-mah tsiàu-kòo hōo hó khah iàu-kín, 
 
 若有啥物消息緊寫批予我乎！
 nā ū siánn-mih siau-sit kín siá phue hōo --guá --honnh!
@@ -2221,7 +2221,7 @@ A-ḿ,
 tsi̍t lia̍p nn̄g khoo --lah!
 
 媽媽，
-Ma--mah, 
+Má-mah, 
 
 弟弟嘛愛呢！
 ti--tih mā ài --neh!
@@ -2545,7 +2545,7 @@ tsia-ê tsînn siu --khí-lâi.
 lí khuànn siáng tńg--lâi?
 
 爸爸！
-Pa--pah!
+Pá-pah!
 
 啊！
 Ah! 
@@ -2554,7 +2554,7 @@ Ah!
 Ná ē bô thiann-kìnn lí kóng beh tńg--lâi? 
 
 爸爸！
-Pa--pah!
+Pá-pah!
 
 啊唷，
 Ah ioh, 
@@ -2563,10 +2563,10 @@ Ah ioh,
 tsiok ka-tsài --ê --ooh!
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 妹妹。
 me--meh.
@@ -2587,7 +2587,7 @@ guá tsit-kú beh tshuā i tńg--lâi khì tsia̍h gû-ni --lah!
 #Siù-kuan# --ah, 
 
 啊恁爸爸轉來，
-ah lín pa--pah tńg--lâi, 
+ah lín pá-pah tńg--lâi, 
 
 毋就緊準備予伊歇睏。
 m̄ tō kín tsún-pī hōo i hioh-khùn.
@@ -2617,7 +2617,7 @@ siánn-mih tāi-tsì m̄-thang kóng?
 Bô --lah, 
 
 爸爸你聽毋著啦。
-pa--pah lí thiann m̄-tio̍h --lah.
+pá-pah lí thiann m̄-tio̍h --lah.
 
 喂，
 Eh,
@@ -2650,7 +2650,7 @@ sing li̍p-khì hioh-khùn --tsi̍t-ē iā hó --honnh.
 Ah? 
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 九點外矣，
 Káu tiám guā --ah, 
@@ -2683,7 +2683,7 @@ lí khah-tsá tńg--lâi --eh --ooh!
 Hó, 
 
 爸爸#再見#！
-pa--pah #再見#!
+pá-pah #再見#!
 
 路暗暗，
 Lōo àm-àm, 
@@ -2833,7 +2833,7 @@ ah lí án-ne tsiah tsá tō buē --tńg-lâi --ah!
 Guá nā tshiau-kè tsa̍p-it tiám tńg--khì, 
 
 阮爸爸攏會問東問西。
-gún pa--pah lóng ē mn̄g tang mn̄g sai.
+gún pá-pah lóng ē mn̄g tang mn̄g sai.
 
 喔喔喔！
 Ooh ooh ooh!
@@ -3190,13 +3190,13 @@ Ai-iō,
 kóo-tsui kah.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸、
-pa--pah, 
+pá-pah, 
 
 爸爸！
-pa--pah! 
+pá-pah! 
 
 #鴻文#啊、
 #Hông-bûn# --ah, 
@@ -3208,7 +3208,7 @@ pa--pah!
 Kín --eh --lah, 
 
 爸爸佮妹妹無佇咧，
-pa--pah kah me--meh bô tī--leh, 
+pá-pah kah me--meh bô tī--leh, 
 
 緊起來啦、
 kín khí-lâi --lah, 
@@ -3223,7 +3223,7 @@ Beh tshòng siánn-mih --lah,
 ài khùn kah.
 
 爸爸佮妹妹無佇咧矣，
-Pa--pah kah me--meh bô tī--leh --ah, 
+Pá-pah kah me--meh bô tī--leh --ah, 
 
 咱緊來揣啦！
 lán kín lâi tshē --lah!
@@ -3235,7 +3235,7 @@ Tsé-tsé,
 beh tshòng siánn-mih --lah!
 
 來去看爸爸佮妹妹，
-Lâi-khì khuànn pa--pah kah me--meh, 
+Lâi-khì khuànn pá-pah kah me--meh, 
 
 去佗位啦！
 khì tó-uī --lah!
@@ -3247,7 +3247,7 @@ Hó --lah!
 Ah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 妹妹咧？
 me--meh --leh?
@@ -3256,7 +3256,7 @@ me--meh --leh?
 Lín me--meh.
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 妹妹去佗位矣？
 me--meh khì tó-uī --ah? 
@@ -3283,16 +3283,16 @@ Sī --lah.
 Tú-tsiah lâi phō khì, 
 
 爸爸拄才送in轉去爾爾。
-pa--pah tú-tsiah sàng in tńg--khì niā-niā.
+pá-pah tú-tsiah sàng in tńg--khì niā-niā.
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 你⿰共人騙！
 lí ka̋ng phiàn!
 
 爸爸無騙恁啦！
-Pa--pah bô phiàn --lín --lah!
+Pá-pah bô phiàn --lín --lah!
 
 好，
 Hó! 
@@ -3316,19 +3316,19 @@ Eh,
 lí tsai-iánn, 
 
 爸爸、
-pa--pah, 
+pá-pah, 
 
 爸爸是不得已的啦！
-pa--pah sī put-tik-í --ê --lah! 
+pá-pah sī put-tik-í --ê --lah! 
 
 #秀娟#，
 #Siù-kuan#, 
 
 你聽爸爸講，
-lí thiann pa--pah kóng,
+lí thiann pá-pah kóng,
 
 爸爸是不忍心將妹妹予人，
-pa--pah sī put lím-sim tsiong me--meh hōo --lâng, 
+pá-pah sī put lím-sim tsiong me--meh hōo --lâng, 
 
 但是呢無按呢做，
 tān-sī --neh bô án-ne tsuè, 
@@ -3346,7 +3346,7 @@ ah nā bô tsînn thang kā i,
 khah tshī kah tuā-hàn?
 
 爸爸，
-Pa--pah,
+Pá-pah,
 
 我知，
 guá tsai, 
@@ -3361,16 +3361,16 @@ lâng keh-piah #Tsin-tsin#,
 i mā sī sin-pū-á, 
 
 伊每日攏予伊媽媽拍，
-i muí li̍t lóng hōo i ma--mah phah, 
+i muí li̍t lóng hōo i má-mah phah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 妹妹會予人拍，
 me--meh ē hōo lâng phah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 自今仔日起，
 tsū kin-á-li̍t khí, 
@@ -3388,7 +3388,7 @@ bé gû-ling-hún hōo me--meh tsia̍h,
 hó --m̄? 
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 拜託你將妹妹𤆬轉來啦，
 pài-thok lí tsiong me--meh tshuā --tńg-lâi --lah, 
@@ -3397,10 +3397,10 @@ pài-thok lí tsiong me--meh tshuā --tńg-lâi --lah,
 honnh?
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 我也欲佮姊姊仝款，
 guá ā beh kah tsé-tsé kāng-khuán, 
@@ -3418,13 +3418,13 @@ thàn-tsînn,
 bué gû-ling hōo me--meh tsia̍h, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 好無啦？
 hó --bô --lah? 
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 無我予你賣啦，
 bô guá hōo lí buē --lah, 
@@ -3448,13 +3448,13 @@ Tsé-tsé!
 #Hông-bûn#, 
 
 爸爸對不住恁。
-pa--pah tuì-put-tsū --lín.
+pá-pah tuì-put-tsū --lín.
 
 阿姆，
 A-ḿ, 
 
 拜託你共阮爸爸講，
-pài-thok lí kā gún pa--pah kóng, 
+pài-thok lí kā gún pá-pah kóng, 
 
 叫伊毋通將阮小妹抱去予人做新婦啦，
 kiò i m̄-thang tsiong gún sió-mē phō khì hōo lâng tsuè sin-pū --lah, 
@@ -3484,13 +3484,13 @@ Hó,
 guá tsit-má kā i phō --tńg-lâi. 
 
 爸爸！
-Pa--pah!
+Pá-pah!
 
 恁兩个踮遮等爸爸，
-Lín nn̄g ê tàm tsia tán pa--pah, 
+Lín nn̄g ê tàm tsia tán pá-pah, 
 
 爸爸隨轉來乎！
-pa--pah suî tńg--lâi --honnh!
+pá-pah suî tńg--lâi --honnh!
 
 弟弟，
 Ti--tih, 
@@ -3658,7 +3658,7 @@ bô lán me--meh ē hōo in tshuā khì tsò sin-pū-á.
 #Siù-kuan#!
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 你人若𤺪，
 lí lâng nā siān, 
@@ -3667,7 +3667,7 @@ lí lâng nā siān,
 sing tńg-khì hioh-khùn.
 
 爸爸袂啦。
-Pa--pah buē --lah. 
+Pá-pah buē --lah. 
 
 啊你，
 Ah lí, 
@@ -3679,7 +3679,7 @@ lí siá hó --buē?
 Hó --ah! 
 
 爸爸我欲來去矣！
-pa--pah guá beh lâi-khì --ah!
+pá-pah guá beh lâi-khì --ah!
 
 #再見#！
  #再見#!
@@ -3874,7 +3874,7 @@ bah-tsàng!
 Iah lí i̋ng-àm ná ē bē tsiah àm --neh?
 
 阮爸爸講，
-Gún pa--pah kóng, 
+Gún pá-pah kóng, 
 
 已經有頭路矣，
 í-king ū thâu-lōo --ah, 
@@ -4342,28 +4342,28 @@ Ah,
 pa, 
 
 爸爸。
-pa--pah.
+pá-pah.
 
 #秀娟#。
 #Siù-kuan#.
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 #秀娟#。
 #Siù-kuan#.
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸。
-pa--pah.
+pá-pah.
 
 爸爸對不住你，
-Pa--pah tuì-put-tsū --lí, 
+Pá-pah tuì-put-tsū --lí, 
 
 爸爸對不住你，
-pa--pah tuì-put-tsū --lí, 
+pá-pah tuì-put-tsū --lí, 
 
 #秀娟#。
 #Siù-kuan#.
@@ -4384,13 +4384,13 @@ Mh。
 Mh. 
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 我問你一句話好毋？
 guá mn̄g lí tsi̍t kù uē hó --m̄? 
 
 媽媽是毋是歹查某？
-Ma--mah sī m̄ sī pháinn tsa-bóo? 
+Má-mah sī m̄ sī pháinn tsa-bóo? 
 
 你共我講啦乎？
 Lí kā guá kóng --lah --honnh? 
@@ -4399,16 +4399,16 @@ Lí kā guá kóng --lah --honnh?
 #Siù-kuan#, 
 
 我知影你這句話自恁媽媽離開彼一日就留到這馬，
-guá tsai-iánn lí tsit kù uē tsū lín ma--mah lī-khui hit tsi̍t li̍t tō lâu kàu tsit-má, 
+guá tsai-iánn lí tsit kù uē tsū lín má-mah lī-khui hit tsi̍t li̍t tō lâu kàu tsit-má, 
 
 毋敢問爸爸，
-m̄ kánn mn̄g pa--pah, 
+m̄ kánn mn̄g pá-pah, 
 
 著毋？
 tio̍h --m̄? 
 
 有一日爸爸一定會共你講。
-Ū tsi̍t li̍t pa--pah it-tīng ē kā lí kóng.
+Ū tsi̍t li̍t pá-pah it-tīng ē kā lí kóng.
 
 #秀娟#，
 #Siù-kuan#, 
@@ -4432,7 +4432,7 @@ tse--tseh,
 gún ni-bú --leh?
 
 阮媽媽拄仔破病佇咧。
-Gún ma--mah tú-á phuà-pīnn tī--leh.
+Gún má-mah tú-á phuà-pīnn tī--leh.
 
 姊姊，
 Tse--tseh, 
@@ -4465,10 +4465,10 @@ tse.
 Kā siu --khí-lâi bē iàu-kín.
 
 毋過阮爸爸。
-M̄-koh gún pa--pah.
+M̄-koh gún pá-pah.
 
 恁爸爸若問我才共伊講，
-Lín pa--pah nā mn̄g guá tsiah kā i kóng, 
+Lín pá-pah nā mn̄g guá tsiah kā i kóng, 
 
 緊，
 kín, 
@@ -4561,13 +4561,13 @@ Lâi,
 #Siù-kuan#, 
 
 緊來去派出所看恁爸爸。
-kín lâi-khì phài-tshut-sóo khuànn lín pa--pah.
+kín lâi-khì phài-tshut-sóo khuànn lín pá-pah.
 
 唅？
 Hannh? 
 
 阮爸爸？
-Gún pa--pah?
+Gún pá-pah?
 
 到今仔日我才知影原來是#秋滿#串通#小馬#來陷害我的太太。
 Kàu kin-á-li̍t guá tsiah tsai-iánn guân-lâi sī #Tshiu-buán# tshuàn-thong #Sió-má# lâi hām-hāi guá ê thài-thài.  
@@ -4585,28 +4585,28 @@ tsit huê nā m̄ sī #Sió-má# lâi huān-àn,
 khó-lîng guá it-sing tō ē gōo-huē gún thài-thài put siú hū-tō.
 
 爸爸。
-Pa--pah.
+Pá-pah.
 
 爸爸是無代誌來做證人的。
-Pa--pah sī bô tāi-tsì lâi tsuè tsìng-lîn --ê.  
+Pá-pah sī bô tāi-tsì lâi tsuè tsìng-lîn --ê.  
 
 #秀娟#，
 #Siù-kuan#, 
 
 咱緊來揣媽媽轉來。
-lán kín lâi tshē ma--mah tńg--lâi. 
+lán kín lâi tshē má-mah tńg--lâi. 
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 誠實欲揣媽媽轉來喔！
-tsiânn-si̍t beh tshē ma--mah tńg--lâi --ooh!
+tsiânn-si̍t beh tshē má-mah tńg--lâi --ooh!
 
 嘿！
 Heh!
 
 爸爸，
-Pa--pah, 
+Pá-pah, 
 
 我足歡喜的。
 guá tsiok huann-hí --ê. 
@@ -4672,37 +4672,37 @@ Hannh,
 tńg--lâi --ah?
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 #秀娟#。
 #Siù-kuan#.
 
 媽媽。
-Ma--mah.
+Má-mah.
 
 #秀娟#。
 #Siù-kuan#.
 
 媽媽、
-Ma--mah, 
+Má-mah, 
 
 媽媽。
-ma--mah.
+má-mah.
 
 #秀娟#。
 #Siù-kuan#.
 
 媽媽。
-ma--mah.
+má-mah.
 
 多謝！
 To-siā!
 
 爸爸、
-Pa--pah, 
+Pá-pah, 
 
 爸爸，
-pa--pah, 
+pá-pah, 
 
 我揣你攏無呢！
 guá tshē lí lóng bô --neh! 
@@ -4714,10 +4714,10 @@ Me-meh ê āinn-kun ná ē tī-leh tsia?
 #Hông-bûn#!
 
 媽媽、
-Ma--mah, 
+Má-mah, 
 
 媽媽。
-ma--mah.
+má-mah.
 
 #鴻文#！
 #Hông-bûn#!
@@ -4726,7 +4726,7 @@ ma--mah.
 Ti--tih, 
 
 媽媽轉來你有歡喜無？
-ma--mah tńg--lâi lí ū huann-hí --bô?
+má-mah tńg--lâi lí ū huann-hí --bô?
 
 #志明#，
 #Tsì-bîng#, 
@@ -4741,16 +4741,16 @@ kuánn-kín phō khì hōo phō --tsi̍t-ē --ooh!
 #Siù-tsu#, 
 
 媽媽轉來矣，
-ma--mah tńg--lâi --ah, 
+má-mah tńg--lâi --ah, 
 
 緊予媽媽抱一下。
-kín hōo ma--mah phō --tsi̍t-ē.
+kín hōo má-mah phō --tsi̍t-ē.
 
 妹妹，
 Me--meh, 
 
 媽媽轉來矣，
-ma--mah tńg--lâi --ah, 
+má-mah tńg--lâi --ah, 
 
 你有歡喜無？
 lí ū huann-hí --bô?
@@ -4765,7 +4765,7 @@ Guá tī hun-kio̍k thiann-tio̍h in ê im-bôo tsiah tsai-iánn tong-sî gōo-h
 guá si̍t-tsāi tuì lí tsin put-tsū.
 
 媽媽，
-Ma--mah, 
+Má-mah, 
 
 阮當欲去揣你講。
 guán tng-beh khì tshē --lí --kóng.
@@ -4779,8 +4779,11 @@ Ah,
 喔！
 Ooh! 
 
-原來就是為著一領短褲才會發生風波喔！ 
-Guân-lâi tō sī uī-tio̍h tsi̍t niá té-khòo tsiah ē huat-sing hong-pho --ooh! 
+原來就是為著一領短褲才會發生
+Guân-lâi tō sī uī-tio̍h tsi̍t niá té-khòo tsiah ē huat-sing 
+
+風波喔！ 
+hong-pho --ooh! 
 
 哈哈，
 Ha ha, 

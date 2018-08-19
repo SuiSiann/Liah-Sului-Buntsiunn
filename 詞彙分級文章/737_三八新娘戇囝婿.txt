@@ -24,8 +24,8 @@ bô-lūn lû-hô lí guá í-king tsi̍t tuì hó tsîng-phuānn,
 你這个好哥哥，
 lí tsit ê hó ko--koh, 
 
-#hi hi#！
-#hi hi#! 
+#hi# #hi#！
+#hi# #hi#! 
 
 今來去𨑨迌，
 Kim lâi khì thit-thô, 
@@ -36,8 +36,8 @@ heh heh!
 見見人就散，
 Kiàn kìnn lâng tō suànn, 
 
-#hi hi#！
-#hi hi#! 
+#hi# #hi#！
+#hi# #hi#! 
 
 毋通真早散，
 M̄-thang tsin tsá suànn, 
@@ -51,8 +51,8 @@ heh heh!
 按呢我通得自由自在來消遙，
 án-ni guá thang-tit tsū-iû-tsū-tsāi lâi siau-iâu, 
 
-#i ia i ia ia ia ia#。
-#i ia i ia ia ia ia#. 
+#i# #ia# #i# #ia# #ia# #ia# #ia#。
+#i# #ia# #i# #ia# #ia# #ia# #ia#. 
 
 每一个少年人需要著愛情，
 Muí tsi̍t ê siàu-liân-lâng su-iàu tio̍h ài-tsîng, 
@@ -78,8 +78,8 @@ bô-lūn lû-hô lí guá ìng-kai phè-ha̍p tio̍h sî-tāi,
 你這个好妹妹，
 lí tsit ê hó muē-muē, 
 
-#hi hi#！
-#hi hi#! 
+#hi# #hi#！
+#hi# #hi#! 
 
 今來講情話，
 Kim lâi kóng tsîng-uē, 
@@ -90,8 +90,8 @@ heh heh!
 若有啥問題，
 Nā ū siánn būn-tê, 
 
-#hi hi#！
-#hi hi#! 
+#hi# #hi#！
+#hi# #hi#! 
 
 快樂開心花，
 Khuài-lo̍k khui sim hue, 
@@ -105,8 +105,8 @@ Lí guá tng tshing-tshun thn̂g-kam-bi̍t-tinn lâi kè-ji̍t,
 你我當青春糖甘蜜甜來過日，
 lí guá tng tshing-tshun thn̂g-kam-bi̍t-tinn lâi kè-ji̍t, 
 
-#i ia i ia ia ia ia#。
-#i ia i ia ia ia ia#.
+#i# #ia# #i# #ia# #ia# #ia# #ia#。
+#i# #ia# #i# #ia# #ia# #ia# #ia#.
 
 啊啊啊啊，
 Ah ah ah ah, 
@@ -483,8 +483,8 @@ luān luān kau.
 媽，
 Má, 
 
-人這是區公所的盧先生介紹的，
-lâng tse sī khu-kong-sóo ê Lôo --sian-sinn kài-siāu --ê, 
+人這是區公所的#盧#先生介紹的，
+lâng tse sī khu-kong-sóo ê #Lôo# --sian-sinn kài-siāu --ê, 
 
 人偌斯文咧，
 lâng guā su-bûn --leh, 
@@ -534,8 +534,8 @@ ah kan-na beh lâi lòng --guá,
 唅？
 hannh?
 
-第五擺矣呢，
-Tē-gōo pái --ah --nih, 
+#第五#擺矣呢，
+#Tē-gōo# pái --ah --nih, 
 
 啊你哪會別位仔毋行，
 ah lí ná ē pa̍t-uī-á m̄ kiânn, 
@@ -633,8 +633,8 @@ Eh,
 啊你才共我改名啦？
 ah lí tsiah kā guá kái-miâ --lah? 
 
-啊恁爸叫做石阿狗啦！
-Ah lín-pē kiò-tsuè Tsio̍h A-káu --lah!
+啊恁爸叫做#石##阿狗#啦！
+Ah lín-pē kiò-tsuè #Tsio̍h# #A-káu# --lah!
 
 干焦石頭狗啦！
 Kan-na tsio̍h-thâu káu --lah!
@@ -780,11 +780,14 @@ iú kî hū pit iú kî tsú.
 啥物才好爾爾，
 Siánn-mih tsiah hó niā-niā, 
 
-阮後的乎若欲予對臺北車頭行到大橋頭乎，
-guán hāu--ê --honnh nā beh hōo uì Tâi-pak tshia-thâu kiânn kàu Tuā-kiô-thâu --honnh, 
+阮後的乎若欲予對#臺北#車頭
+guán hāu--ê --honnh nā beh hōo uì #Tâi-pak# tshia-thâu 
 
-彼後面查某囡仔上少綴欲八、九十个啦。
-he āu-bīn  tsa-bóo gín-á siōng tsió tè beh pueh, káu-tsa̍p ê --lah.
+行到#大橋頭#乎，
+kiânn kàu #Tuā-kiô-thâu# --honnh, 
+
+彼後面查某囡仔上少綴欲#八#、#九十#个啦。
+he āu-bīn  tsa-bóo gín-á siōng tsió tè beh #pueh#, #káu-tsa̍p# ê --lah.
 
 喔。
 Ooh.
@@ -792,8 +795,8 @@ Ooh.
 嘿，
 Heh, 
 
-啊若欲予伊行到北投乎，
-ah nā beh hōo i kiânn kàu Pak-tâu --honnh, 
+啊若欲予伊行到#北投#乎，
+ah nā beh hōo i kiânn kàu #Pak-tâu# --honnh, 
 
 彼就毋是按呢講。
 he tō m̄ sī án-ne kóng.
@@ -828,8 +831,8 @@ gún hāu--ê tsū tshut-sì --honnh tō tio̍h lú-lān.
 欸、欸啥物叫做女難啊？
 Eh, eh siánn-mih kiò-tsò lú-lān --ah?
 
-阮老的生伊四個月啊就過身去矣，
-Gún lāu--ê sinn i sì kò gue̍h ah tō kè-sin --khì --ah, 
+阮老的生伊#四#個月啊就過身去矣，
+Gún lāu--ê sinn i #sì# kò gue̍h ah tō kè-sin --khì --ah, 
 
 啊我一暗乎按呢共搖、搖甲天光乎，
 ah guá tsi̍t àm --honnh án-ne kā iô, iô kah thinn-kng --honnh, 
@@ -873,17 +876,17 @@ sī kánn-ná khip-tsio̍h --eh,
 啊查某囡仔是敢若歹銅管仔咧，
 ah tsa-bóo gín-á sī kánn-ná pháinn-tâng-kóng-á --leh, 
 
-啊離開六尺遠喔，
-ah lī-khui la̍k tshioh hn̄g --ooh, 
+啊離開#六#尺遠喔，
+ah lī-khui #la̍k# tshioh hn̄g --ooh, 
 
 毋免講話，
 m̄-bián kóng-uē, 
 
-啊就按呢khi-li-khong-long、khi-li-khong-long，
-ah tō án-ne khi-li-khong-long, khi-li-khong-long, 
+啊就按呢#khi-li-khong-long#、#khi-li-khong-long#，
+ah tō án-ne #khi-li-khong-long#, #khi-li-khong-long#, 
 
-khiang！
-khiang! 
+#khiang#！
+#khiang#! 
 
 石就吸倚來。
 Tsio̍h tō khip-uá --lâi.
@@ -891,8 +894,8 @@ Tsio̍h tō khip-uá --lâi.
 爸喔！
 Pâ --ooh!
 
-喂喂喂，這隻貓母是彼四斤烏糖共人換來的呢，
-Eh eh eh, tsit tsiah niau-bú sī hit sì kun oo-thn̂g kā lâng uānn --lâi --ê --neh, 
+喂喂喂，這隻貓母是彼#四#斤烏糖共人換來的呢，
+Eh eh eh, tsit tsiah niau-bú sī hit #sì# kun oo-thn̂g kā lâng uānn --lâi --ê --neh, 
 
 無你是欲共摔予死是毋？
 bô lí sī beh kā siak hōo sí sī --m̄?
@@ -936,8 +939,8 @@ kiò lín khan-tshiú--ê lâi kā i tshì --khuànn-māi --leh.
 噓！
 Si!
 
-阮牽手四个囡仔矣，
-Gún khan-tshiú sì ê gín-á --ah, 
+阮牽手#四#个囡仔矣，
+Gún khan-tshiú #sì# ê gín-á --ah, 
 
 哪會去愛彼號少年的？
 ná ē khì ài hit lō siàu-liân--ê? 
@@ -957,8 +960,8 @@ A-bo̍k --ah,
 你的便當啦！
 lí ê piān-tong --lah! 
 
-喂阿狗伯仔。
-Eh A-káu peh-á.
+喂#阿狗#伯仔。
+Eh #A-káu# peh-á.
 
 今你是？
 Tann lí sī?
@@ -966,20 +969,20 @@ Tann lí sī?
 啊，
 Ah, 
 
-啊就較早蹛佇恁隔壁彼个菊花仔啦。
-ah tō khah-tsá tuà tī lín keh-piah hit ê Kiok-hue-á --lah. 
+啊就較早蹛佇恁隔壁彼个#菊花仔#啦。
+ah tō khah-tsá tuà tī lín keh-piah hit ê #Kiok-hue--á# --lah. 
 
 喔，
 Ooh, 
 
-就是阿花仔喔！
-tō sī A-hue--á --ooh! 
+就是#阿花仔#喔！
+tō sī #A-hue--á# --ooh! 
 
 哈哈哈哈、嘿嘿嘿嘿！
 Hah hah hah hah,  heh heh heh heh.
 
-啊阿狗姆仔咧？
-Ah A-káu ḿ--á --leh?
+啊#阿狗#姆仔咧？
+Ah #A-káu# ḿ--á --leh?
 
 早就死去矣，
 Tsá tō sí--khì --ah, 
@@ -993,14 +996,14 @@ Iah hit ê --leh?
 嘿，
 Heh, 
 
-就細漢你抱有著彼个文德仔啦。
-tō sè-hàn lí phō ū tio̍h hit ê Bûn-tik--á --lah.
+就細漢你抱有著彼个#文德仔#啦。
+tō sè-hàn lí phō ū tio̍h hit ê #Bûn-tik--á# --lah.
 
 唅，
 Hannh, 
 
-哎喲文德仔你哪變甲遮大漢喔！
-ai-iō Bûn-tik--á lí ná pìnn kah tsiah tuā-hàn --ooh! 
+哎喲#文德仔你#哪變甲遮大漢喔！
+ai-iō #Bûn-tik--á# lí ná pìnn kah tsiah tuā-hàn --ooh! 
 
 哎喲，
 Ai-iō, 
@@ -1089,8 +1092,8 @@ thán-tshua̍h m̄-tsiah khuànn-ū,
 啊你叫我看正面。
 ah lí kiò guá khuànn tsiànn-bīn.
 
-阿狗伯仔，
-A-káu peh--á, 
+#阿狗#伯仔，
+#A-káu# peh--á, 
 
 毋是啦，
 m̄ sī --lah, 
@@ -1110,11 +1113,11 @@ m̄ sī leh sái-ba̍k-bé.
 注意是無蝕本喔！
 Tsù-ì sī bô si̍h-pún --ooh! 
 
-德的啊，
-Tik--ê --ah, 
+#德的#啊，
+#Tik--ê# --ah, 
 
-德的啊，
-Tik--ê --ah, 
+#德的#啊，
+#Tik--ê# --ah, 
 
 灶跤的飯毋就去共我看覓一下。
 tsàu-kha ê pn̄g m̄ tō khì kā guá khuànn-māi --tsi̍t-ē.
@@ -1128,8 +1131,8 @@ guá lâi khuànn-māi.
 今你嘛好轉去矣。
 Tann lí mā hó tńg--khì --ah.
 
-阿狗伯仔，
-A-káu peh--á, 
+#阿狗#伯仔，
+#A-káu# peh--á, 
 
 才來去𨑨迌啦！
 tsiah lâi khì tshit-thô --lah!
@@ -1161,8 +1164,8 @@ Ah ū-iánn --honnh.
 今這是啥物味啊？
 Tann tse sī siánn-mih bī --ah? 
 
-德的啊，
-Tik--ê --ah, 
+#德的#啊，
+#Tik--ê# --ah, 
 
 去矣，
 khì --ah, 
@@ -1308,8 +1311,8 @@ Ah sī ū iàu-kín --bô?
 喔、嗯、喔、哎喲、喔、哎喲、哎喲！
 Ooh, mh, ooh, āi-iō, ooh, āi-iō, āi-iō! 
 
-石先生，
-Tsio̍h sian-sinn , 
+#石#先生，
+#Tsio̍h# sian-sinn , 
 
 咱若欲做爸仔囝乎，
 lán nā beh tsuè pē-á-kiánn --honnh, 
@@ -1395,8 +1398,8 @@ ké --ê --lah!
 行！
 Kiânn!
 
-喂喂文德仔，
-Eh eh Bûn-tik--á, 
+喂喂#文德仔#，
+Eh eh #Bûn-tik--#á, 
 
 你欲走佗啊？
 lí beh tsáu tó --ah? 
@@ -1404,8 +1407,8 @@ lí beh tsáu tó --ah?
 喂，
 Eh, 
 
-文德仔，
-Bûn-tik--á, 
+#文德仔#，
+#Bûn-tik--á#, 
 
 欲走佗去？
 beh tsáu tó khì?
@@ -1515,8 +1518,8 @@ sit-lé --lah sit-lé --lah!
 偌濟啦？
 Guā-tsē --lah?
 
-二十箍。
-Jī-tsa̍p khoo.
+#二十#箍。
+#Jī-tsa̍p# khoo.
 
 唅？
 Hannh? 
@@ -1548,8 +1551,8 @@ Mh.
 多謝乎。
 To-siā --honnh. 
 
-嘿嘿石先生，
-Heh heh Tsio̍h sian-sinn, 
+嘿嘿#石#先生，
+Heh heh #Tsio̍h# sian-sinn, 
 
 著矣乎！
 tio̍h --ah --honnh! 
@@ -1605,8 +1608,8 @@ Hngh,
 行！
 kiânn!
 
-文德，
-Bûn-tik, 
+#文德#，
+#Bûn-tik#, 
 
 啊我咧？
 ah guá --leh?
@@ -1632,8 +1635,8 @@ Hngh,
 mh。
 mh.
 
-貴枝仔。
-Kuì-ki-á.
+#貴枝仔#。
+#Kuì-ki-á#.
 
 轉來！
 Tńg--lâi! 
@@ -1687,7 +1690,7 @@ mh,
 ah hó hó hó.
 
 啊啊！
- Ah ah! 
+Ah ah! 
 
 喔、喔。
 Ooh, ooh.
@@ -1698,11 +1701,11 @@ Ah!
 啊！
 Ah! 
 
-文德、文德。
-Bûn-tik, Bûn-tik. 
+#文德#、#文德#。
+#Bûn-tik#, #Bûn-tik#. 
 
-文德，
-Bûn-tik, 
+#文德#，
+#Bûn-tik#, 
 
 阮媽無佇咧，
 gún má bô tī--leh, 
@@ -1716,14 +1719,14 @@ kín ji̍p--lâi-khì.
 遐坐啦。
 Hia tsē --lah.
 
-這塊布是香港提轉來的，
-Tsit tè pòo sī Hiong-káng the̍h --tńg-lâi --ê, 
+這塊布是#香港#提轉來的，
+Tsit tè pòo sī #Hiong-káng# the̍h --tńg-lâi --ê, 
 
 我送你。
 guá sàng --lí.
 
-貴枝啊、貴枝啊。
-Kuì-ki --ah, Kuì-ki --ah.
+#貴枝#啊、#貴枝#啊。
+#Kuì-ki# --ah, #Kuì-ki# --ah.
 
 害矣！
 Hāi --ah! 
@@ -1737,8 +1740,8 @@ Ah tann beh tsánn-iūnn --lah?
 小覕咧。
 Sió bih --leh.
 
-貴枝啊。
-Kuì-ki --ah.
+#貴枝#啊。
+#Kuì-ki# --ah.
 
 覕咧房間。
 Bih leh pâng-king. 
@@ -1857,8 +1860,8 @@ Ah kah ū tsit tè pòo?
 Eh，
 Eh, 
 
-阮朋友對香港提轉來送我的啦。
-gún pîng-iú tuì Hiang-káng the̍h tńg--lâi sàng --guá --ê --lah.
+阮朋友對#香港#提轉來送我的啦。
+gún pîng-iú tuì #Hiang-káng# the̍h tńg--lâi sàng --guá --ê --lah.
 
 喔，
 Ooh, 
@@ -2373,8 +2376,8 @@ lán lâi-khì.
 等咧，
 Tán --leh, 
 
-石先生，
-Tsio̍h sian-sinn, 
+#石#先生，
+#Tsio̍h# sian-sinn, 
 
 咱毋知欲去佗位乎？
 lán m̄ tsai beh khì tó-uī --honnh?
@@ -2481,8 +2484,11 @@ guá ê siáu-khián-á kah lí ê tshian-kim,
 啊兩个人就有相意愛，
 ah nn̄g ê lâng tō ū sio ì-ài, 
 
-所以我今仔日啦才專工欲來佮你談談咧啦嘿嘿嘿。
-sóo-í guá kin-á-li̍t --lah tsiah tsuan-kang beh lâi kah lí tâm tâm--leh --lah heh heh heh.
+所以我今仔日啦才專工欲來
+sóo-í guá kin-á-li̍t --lah tsiah tsuan-kang beh lâi 
+
+佮你談談咧啦嘿嘿嘿。
+kah lí tâm-tâm--leh --lah heh heh heh.
 
 毋過我的⿰查某囝真頇顢，
 M̄-koh guá ê tsa̋u-kiánn tsin hân-bān, 
@@ -2529,8 +2535,11 @@ nā lí ê hāu-sinn beh tshuā guá ê tsa-bóo-kiánn,
 死就免講。
 sí tō bián kóng.
 
-喂喂啊我若知影講是你這隻狐狸精生的查某囝乎，
-Eh eh ah guá nā tsai-iánn kóng sī lí tsit tsiah hôo-lî-tsinn sinn ê tsa-bóo-kiánn --honnh, 
+喂喂啊我若知影講是你
+Eh eh ah guá nā tsai-iánn kóng sī lí 
+
+這隻狐狸精生的查某囝乎，
+tsit tsiah hôo-lî-tsinn sinn ê tsa-bóo-kiánn --honnh, 
 
 你放轎來共我請乎，
 lí pàng kiō lâi kā guá tshiánn --honnh, 
@@ -2568,8 +2577,8 @@ Tsit tsân bián kóng --lah!
 是怎樣講？
 Sī-tsánn-iūnn kóng?
 
-這个老猴就是三十年情放捒恁阿母的獸人啦！
-Tsit ê lāu-kâu tō sī sann-tsa̍p nî tsîng pàng-sak lín a-bú ê siù-jîn --lah! 
+這个老猴就是#三十#年前放捒恁阿母的獸人啦！
+Tsit ê lāu-kâu tō sī #sann-tsa̍p# nî tsîng pàng-sak lín a-bú ê siù-jîn --lah! 
 
 這層免講。
 Tsit tsân bián kóng.
@@ -2628,8 +2637,8 @@ sui-liân tsū-iû siū sok-pa̍k,
 毋願來喪志。
 m̄-guān lâi sòng-tsì.
 
-文德兄，
-Bûn-tik hiann, 
+#文德#兄，
+#Bûn-tik# hiann, 
 
 ⿰昨昏對你真失禮，
 tsa̋ng tuì lí tsin sit-lé, 
@@ -2646,8 +2655,8 @@ tsai-iánn tsit tsân tāi-tsì liáu-āu,
 昨暗規暝攏睏袂去，
 tsa-àm kui mî lóng khùn bē khì, 
 
-希望你明仔早起八點在淡水河邊相等，
-hi-bāng lí bîn-á tsái-khí pueh tiám tsāi Tām-tsuí-hô-pinn sio-tán, 
+希望你明仔早起#八#點在#淡水河邊#相等，
+hi-bāng lí bîn-á tsái-khí #pueh# tiám tsāi #Tām-tsuí-hô-pinn# sio-tán, 
 
 我有要緊的話欲對你講。
 guá ū iàu-kín ê uē beh tuì lí kóng.
@@ -2682,8 +2691,11 @@ m̄-kuán lí sī iah m̄ sī,
 是怎樣我著愛佮伊斷絕來往？
 Sī-tsánn-iūnn guá to̍h-ài kah i tuān-tsua̍t lâi-óng?
 
-彼隻狐狸精啊就是三十年前來放捒恁、放捒恁爸的人，
-Hit tsiah hôo-lî-tsinn --ah tō sī sann-tsa̍p nî tsîng lâi pàng-sak lín, pàng-sak lín pâ ê lâng, 
+彼隻狐狸精啊就是#三十#年前
+Hit tsiah hôo-lî-tsinn --ah tō sī #sann-tsa̍p# nî tsîng 
+
+來放捒恁、放捒恁爸的人，
+lâi pàng-sak lín, pàng-sak lín pâ ê lâng, 
 
 莫閣去想伊矣，
 mài koh khì siūnn --i --ah, 
@@ -2697,8 +2709,8 @@ Guá ná tō koh khì tshē pa̍t-lâng?
 入去。
 Li̍p-khì. 
 
-文德兄，
-Bûn-tik hiann, 
+#文德#兄，
+#Bûn-tik# hiann, 
 
 嘿嘿嘿哼！
 heh heh heh hngh!
@@ -2712,14 +2724,14 @@ tsa-bóo gín-á-lâng khùn kah tsiah-nī uànn,
 我遮是無通睏你一世人喔，
 guá tsia sī bô thang khùn lí tsi̍t-sì-lâng --ooh, 
 
-貴枝啊！
-Kuì-ki --ah! 
+#貴枝#啊！
+#Kuì-ki# --ah! 
 
-貴枝啊！
-Kuì-ki --ah! 
+#貴枝#啊！
+#Kuì-ki# --ah! 
 
-貴枝啊！
-Kuì-ki --ah! 
+#貴枝#啊！
+#Kuì-ki# --ah! 
 
 啊？
 Ah? 
@@ -2727,8 +2739,8 @@ Ah?
 親愛的媽媽，
 Tshin-ài ê má-mah, 
 
-我佮文德兄的愛情是千刀難斷，
-guá kah Bûn-tik hiann ê ài-tsîng sī tshian-to-lân-tuān, 
+我佮#文德#兄的愛情是千刀難斷，
+guá kah #Bûn-tik# hiann ê ài-tsîng sī tshian-to-lân-tuān, 
 
 所以我暫時欲來離開這个家庭，
 sóo-í guá tsiām-sî beh lâi lī-khui tsit ê ka-tîng, 
@@ -2739,8 +2751,8 @@ tshiánn má-mah m̄-bián uī guá lâi kuà-liām,
 #再見#，
 #再見#, 
 
-不孝女貴枝。
-put-hàu lú Kuì-ki.
+不孝女#貴枝#。
+put-hàu lú #Kuì-ki#.
 
 這一定是彼个膨肚短命in後生來拐去，
 Tse it-tīng sī hit ê phòng-tōo té-miā in hāu-sinn lâi kuái--khì, 
@@ -2781,8 +2793,8 @@ In-uī i tsái-khí khì phài-tshut-sóo pò-àn,
 講你的公子誘拐伊的查某囝走，
 kóng lí ê kong-tsú iú-kuái i ê tsa-bóo-kiánn tsáu, 
 
-我才欲來問你一个詳細。
-guá tsiah beh lâi mn̄g lí tsi̍t ê siông-sè.
+我才欲來問你一下詳細。
+guá tsiah beh lâi mn̄g lí tsi̍t-ē siông-sè.
 
 大人啊！
 Tāi-jîn --ah! 
@@ -2799,8 +2811,11 @@ tsit tiunn tō sī kuái-iú ê tsìng-kù.
 大人啊！
 Tāi-jîn --ah! 
 
-這張批乎就是這隻狐狸母in查某囝寫來予阮後生的啦！
-Tsit tiunn phue --honnh tō sī tsit tsiah hôo-lî bó in tsa-bóo-kiánn siá lâi hōo gún hāu-sinn --ê --lah!
+這張批乎就是這隻狐狸母in
+Tsit tiunn phue --honnh tō sī tsit tsiah hôo-lî bó in 
+
+查某囝寫來予阮後生的啦！
+tsa-bóo-kiánn siá lâi hōo gún hāu-sinn --ê --lah!
 
 你看就知啦，
 Lí khuànn tō tsai --lah, 
@@ -2949,8 +2964,8 @@ hit-tsūn tuì lí tsin sûn-tsîng --ooh,
 是你對阮變心，
 sī lí tuì gún piàn-sim, 
 
-等你兩三年，
-tán lí nn̄g sann nî, 
+等你#兩##三#年，
+tán lí #nn̄g# #sann# nî, 
 
 閣全然無音訊，
 koh tsuân-liân bô im-sìn, 
@@ -2997,8 +3012,8 @@ koh m̄ tsai lâng khin-tāng,
 哎喲，
 ai-iō, 
 
-放阮孤一个每日怨嘆。
-pàng gún koo tsi̍t ê muí ji̍t uàn-thàn.
+放阮孤#一#个每日怨嘆。
+pàng gún koo #tsi̍t# ê muí ji̍t uàn-thàn.
 
 你共我騙。
 Lí kā guá phiàn. 
@@ -3027,8 +3042,8 @@ Gún kiánn tshuā lâi hîng --guá khah iàu-kín --lah!
 查某囝𤆬來還我啦！
 Tsa-bóo-kiánn tshuā lâi hâinn --guá --lah!
 
-Î？
-Î? 
+#Î#？
+#Î#? 
 
 啊你佮意是毋？
 Ah lí kah-ì sī --m̄?
@@ -3126,14 +3141,14 @@ gún tau āu-tāi ê thuân-sîng sī beh kau-tài hōo siáng --leh?
 阿伯，
 A-peh, 
 
-阮欲賣你一百箍⿰爾爾呢。
-gún beh bē lí tsi̍t-pah khoo nia̋ --neh.
+阮欲賣你#一百#箍⿰爾爾呢。
+gún beh bē lí #tsi̍t-pah# khoo nia̋ --neh.
 
-恁欲賣一百？
-Lín beh buē tsi̍t-pah? 
+恁欲賣#一百#？
+Lín beh buē #tsi̍t-pah#? 
 
-我就兩百箍才欲買，
-Guá tō nn̄g-pah khoo tsiah beh bué, 
+我就#兩百#箍才欲買，
+Guá tō #nn̄g-pah# khoo tsiah beh bué, 
 
 袂用得是毋？
 buē-īng-eh sī --m̄?
@@ -3189,17 +3204,17 @@ Bē-kì-eh ā bô iàu-kín,
 恁兩个愛緊倒轉去，
 lín nn̄g ê ài kín tò-tńg--khì, 
 
-厝的爸母一定真思念恁，
+厝裡爸母一定真思念恁，
 tshù--e pē-bú it-tīng tsin su-liām --lín, 
 
-一日等過一 日，
-tsi̍t li̍t tán kè tsi̍t li̍t, 
+#一#日等過#一#日，
+#tsi̍t# li̍t tán kè #tsi̍t# li̍t, 
 
 下神拜佛，
 hē sîn pài pu̍t, 
 
-也是希望恁看會早一日倒轉去抑袂，
-iā sī hi-bāng lín khuànn ē tsá tsi̍t ji̍t tò-tńg--khì iah buē, 
+也是希望恁看會早#一#日倒轉去抑袂，
+iā sī hi-bāng lín khuànn ē tsá #tsi̍t# ji̍t tò-tńg--khì iah buē, 
 
 毋通予序大人煩惱，
 m̄-thang hōo sī-tuā-lâng huân-ló, 
@@ -3225,8 +3240,8 @@ guá ē hōo tsit ê kiánn kah lín kāng-khuán,
 為著婚姻脫離家庭，
 uī-tio̍h hun-in thuat-lī ka-tîng, 
 
-已經、已經六個月過三工矣，
-í-king, í-king la̍k kò ge̍h kè sann kang --ah, 
+已經、已經#六#個月過#三#工矣，
+í-king, í-king #la̍k# kò ge̍h kè #sann# kang --ah, 
 
 這个中間，
 tsit ê tiong-kan, 
@@ -3321,8 +3336,8 @@ bô-lūn hó-thinn iah-sī lo̍h-hōo,
 我就每日四界佇咧揣in，
 guá tō muí-li̍t sì-kuè tī-leh tshē --in, 
 
-希望in看會早一日倒轉來抑袂？
-hi-bāng in khuànn ē tsá tsi̍t li̍t tò-tńg--lâi iah buē? 
+希望in看會早#一#日倒轉來抑袂？
+hi-bāng in khuànn ē tsá #tsi̍t# li̍t tò-tńg--lâi iah buē? 
 
  阿伯、阿伯。
 A-peh, a-peh.
@@ -3333,8 +3348,8 @@ Sè-hong-li̍t-hā,
 人心不古。
 lîn-sim-put-kóo.
 
-文德，
-Bûn-tik, 
+#文德#，
+#Bûn-tik#, 
 
 ⿰下昏暗就較早轉來喔。
 i̋ng-àm tō khah-tsá tńg--lâi --ooh.
@@ -3354,11 +3369,11 @@ lí nā bô tńg--lâi,
 人我食袂落去。
 lâng guá tsia̍h buē lo̍h--khì. 
 
-猶閣有三十六箍半。
-Ah-koh ū sann-tsa̍p-la̍k khoo puànn.
+猶閣有#三十六#箍半。
+Ah-koh ū #sann-tsa̍p-la̍k# khoo puànn.
 
-石先生久見乎？
-Tsio̍h --sian-sinn kiú kiàn --honnh?
+#石#先生久見乎？
+#Tsio̍h# --sian-sinn kiú kiàn --honnh?
 
 爸久見。
 Pâ kiú kiàn.
@@ -3408,8 +3423,8 @@ Eh!
 爸，
 Pâ, 
 
-你若毋允准阮兩个結婚，
-lí nā m̄ ín-tsún gún nn̄g ê kiat-hun, 
+你若毋允准阮#兩#个結婚，
+lí nā m̄ ín-tsún gún #nn̄g# ê kiat-hun, 
 
 我毋轉去。
 guá m̄ tńg--khì.
@@ -3444,8 +3459,8 @@ Kín siánn-mih --lah?
 今仔禮拜日呢！
 Kin-á lé-pài-li̍t --neh! 
 
-來看一場電影，
-Lâi khuànn tsi̍t tiûnn tiān-iánn, 
+來看#一#場電影，
+Lâi khuànn #tsi̍t# tiûnn tiān-iánn, 
 
 啊⿰下昏暗莫煮，
 ah i̋ng-àm mài tsú, 
@@ -3453,17 +3468,17 @@ ah i̋ng-àm mài tsú,
 食圓環，
 tsia̍h înn-khuân, 
 
-食了閣來看一場。
-tsia̍h liáu koh-lâi khuànn tsi̍t tiûnn.
+食了閣來看#一#場。
+tsia̍h liáu koh-lâi khuànn #tsi̍t# tiûnn.
 
 唅？
 Hannh? 
 
-厝稅錢欠人兩月日，
-Tshù-sè tsînn khiàm lâng nn̄g ge̍h-li̍t, 
+厝稅錢欠人#兩#月日，
+Tshù-sè tsînn khiàm lâng #nn̄g# ge̍h-li̍t, 
 
-你也欠人規百斤矣，
-lí iā khiàm lâng kui pah kun --ah, 
+你也欠人規#百#斤矣，
+lí iā khiàm lâng kui #pah# kun --ah, 
 
 明仔載無錢通買菜，
 bîn-á-tsài bô tsînn thang bé tshài, 
@@ -3477,8 +3492,8 @@ Hngh,
 人對拜一做起，
 lâng tuì pài-it tsò khí, 
 
-艱苦六工矣呢，
-kan-khóo la̍k kang --ah --neh, 
+艱苦#六#工矣呢，
+kan-khóo #la̍k# kang --ah --neh, 
 
 也無通𤆬人看電影。
 ā bô thang tshuā lâng khuànn tiān-iánn. 
@@ -3685,7 +3700,7 @@ Tshiò siánn-hè --lah?
 Ang-bóo tsuè-tīn íng-íng kóng-uē mā ē sio-gi̍k, 
 
 我若罵伊一句仔，
-guá nā mā i --tsi̍t kù-á, 
+guá nā mā i --tsi̍t-kù-á, 
 
 啊伊著愛忍受起來，
 ah i tio̍h-ài lím-siū --khí-lâi, 
@@ -3732,8 +3747,8 @@ Tio̍h!
 著！
 Tio̍h! 
 
-你遮哪會一空？
-Lí tsia ná ē tsi̍t khang?
+你遮哪會#一#空？
+Lí tsia ná ē #tsi̍t# khang?
 
 有理啊！
 Ū lí --ah!
@@ -4014,14 +4029,14 @@ thâu tsi̍t pái khah thiám --lah --honnh ha ha.
 啊！
 Ah!
 
-貴枝啊、貴枝啊！
-Kuì-ki --ah! Kuì-ki --ah! 
+#貴枝#啊、#貴枝#啊！
+#Kuì-ki# --ah! #Kuì-ki# --ah! 
 
 欲走對佗位去？
 Beh tsáu uì tó-uī --khì? 
 
-貴枝啊！
-Kuì-ki --ah! 
+#貴枝#啊！
+#Kuì-ki# --ah! 
 
 哎喲，
 Ai-iō, 
@@ -4029,8 +4044,8 @@ Ai-iō,
 按呢做伊走啦。
 án-ni tsuè i tsáu --lah. 
 
-貴枝啊！
-Kuì-ki --ah!
+#貴枝#啊！
+#Kuì-ki# --ah!
 
 喂，
 Eh, 
@@ -4068,11 +4083,11 @@ Bô kah-ì suah-suah--khì --lah!
 這句話是對你心肝內講出來的是毋？
 Tsit kù uē sī tuì lí sim-kuann-lāi kóng --tshut-lâi --ê sī --m̄?
 
-石先生啊，
-Tsio̍h --sian-sinn --ah, 
+#石#先生啊，
+#Tsio̍h# --sian-sinn --ah, 
 
-今你的厝稅已經四月日無納矣，
-tann lí ê tshù-sè í-king sì ge̍h-li̍t bô la̍p --ah, 
+今你的厝稅已經#四#月日無納矣，
+tann lí ê tshù-sè í-king #sì# ge̍h-li̍t bô la̍p --ah, 
 
 拜託一下。
 pài-thok --tsi̍t-ē.
@@ -4137,11 +4152,11 @@ Eh!
 喂！
 Ueh!
 
-石先生，
-Tsio̍h --sian-sinn, 
+#石#先生，
+#Tsio̍h# --sian-sinn, 
 
-你的米錢一百三十斤矣，
-lí ê bí tsînn tsi̍t-pah sann-tsa̍p kun --ah, 
+你的米錢#一百##三十#斤矣，
+lí ê bí tsînn #tsi̍t-pah# #sann-tsa̍p# kun --ah, 
 
 加減還淡薄仔好毋？
 ke-kiám hîng --tām-po̍h-á hó --m̄?
@@ -4221,8 +4236,8 @@ Tsit king --lah!
 媽！
 Má!
 
-貴枝啊！
-Kuì-ki --ah!
+#貴枝#啊！
+#Kuì-ki# --ah!
 
 媽！
 Má!
@@ -4335,8 +4350,8 @@ Lín pâ tsiah koh tshuā tsi̍t ê khah suí--ê hōo --lí!
 喂！
 Eh! 
 
-文德，
-Bûn-tik, 
+#文德#，
+#Bûn-tik#, 
 
 你誠實欲閣娶別人是毋？
 lí tsiânn-si̍t beh koh tshuā pa̍t-lâng sī --m̄?
@@ -4404,11 +4419,11 @@ Ai-iō,
 好矣啦！
 hó --ah --lah! 
 
-將in兩个冤家的動機講出來⿰予人聽，
-Tsiong in nn̄g ê uan-ke ê tōng-ki kóng --tshut-lâi hőng thiann, 
+將in#兩#个冤家的動機講出來⿰予人聽，
+Tsiong in #nn̄g# ê uan-ke ê tōng-ki kóng --tshut-lâi hőng thiann, 
 
 看佗一爿著毋著，
-khuànn tó tsi̍t pîng tio̍h m̄ tio̍h, 
+khuànn tó tsi̍t-pîng tio̍h m̄-tio̍h, 
 
 才來相諍理，
 tsiah lâi sio-tsènn lí, 
@@ -4461,11 +4476,11 @@ tán kah tshài líng,
 我也毋敢先食，
 guá iā m̄ kánn sing tsia̍h, 
 
-一點過一點，
-tsi̍t tiám kuè tsi̍t tiám, 
+#一#點過#一#點，
+#tsi̍t# tiám kuè #tsi̍t# tiám, 
 
-已經十二點外矣，
-í-king tsa̍p-lī tiám-guā --ah, 
+已經#十二#點外矣，
+í-king #tsa̍p-lī# tiám-guā --ah, 
 
 猶未轉來！
 iah-bē tńg--lâi!
@@ -4551,8 +4566,8 @@ Eh,
 這陣幾點矣？
 tsit-tsūn kuí tiám --ah?
 
-兩點外⿰爾爾啦。
-Nn̄g tiám-guā nia̋ --lah.
+#兩#點外⿰爾爾啦。
+#Nn̄g# tiám-guā nia̋ --lah.
 
 啊是去佗位？
 Ah sī khì tó-uī?
@@ -4561,7 +4576,7 @@ Ah sī khì tó-uī?
 Ah tō pîng-iú tshut-kok, 
 
 啊去酒家共伊餞別，
-ah khì tsiú-ka kā i tsiàn-pia̍t, 
+ah khì tsiú-ka kā i tsiān-pia̍t, 
 
 喂內面查某偌媠的呢，
 eh lāi-bīn tsa-bóo guā suí --ê --neh, 
@@ -4572,8 +4587,8 @@ ah koh guā tshin-tshiat --ê --looh.
 恬去！
 Tiām --khì! 
 
-啊無想講厝內一个好太太，
-Ah bô siūnn-kóng tshù-lāi tsi̍t ê hó thài-thài, 
+啊無想講厝內#一#个好太太，
+Ah bô siūnn-kóng tshù-lāi #tsi̍t# ê hó thài-thài, 
 
 也敢去酒家！
 iā kánn khì tsiú-ka!
@@ -4650,8 +4665,8 @@ Ai-iō!
 啊！
 Ah! 
 
-文德、文德、文德，
-Bûn-tik, Bûn-tik, Bûn-tik, 
+#文德#、#文德#、#文德#，
+#Bûn-tik#, #Bûn-tik#, #Bûn-tik#, 
 
 有要緊無？
 ū iàu-kín --bô?
@@ -4659,8 +4674,8 @@ Bûn-tik, Bûn-tik, Bûn-tik,
 啊你就對昨昏的舊傷共撼落去，
 Ah lí tō tuì tsa-hng ê kū siong kā hám --lo̍h-khì, 
 
-eh麻疼麻疼啦。
-eh bâ thiànn bâ thiànn --lah.
+#eh#麻疼麻疼啦。
+#eh# bâ thiànn bâ thiànn --lah.
 
 失禮啦。
 Sit-lé --lah.
@@ -4758,8 +4773,8 @@ tsò kiánn --ê gún buē-tàng tiàm sin-pinn kā lín iú-hàu,
 這攏嘛恁造成的，
 tse lóng mā lín tsō-sîng --ê, 
 
-為著恁三十年前的情怨，
-uī-tio̍h lín sann-tsa̍p nî tsîng ê tsîng-uàn, 
+為著恁#三十#年前的情怨，
+uī-tio̍h lín #sann-tsa̍p# nî tsîng ê tsîng-uàn, 
 
 害阮遮爾艱苦，
 hāi gún tsiah-nī kan-khóo, 
@@ -4815,8 +4830,8 @@ ah siàu-liân--ê tann tō bí tsú tsiânn pn̄g --ah,
 冤可解不可結，
 uan khó kái put khó kiat,
 
-啊恁兩个老的過去若有啥物情怨，
-ah lín nn̄g ê lāu--ê kè-khì nā ū siánn-mih tsîng-uàn, 
+啊恁#兩#个老的過去若有啥物情怨，
+ah lín #nn̄g# ê lāu--ê kè-khì nā ū siánn-mih tsîng-uàn, 
 
 趁里長伯仔佇咧，
 thàn lí-tiúnn-peh--á tī --eh, 
@@ -4836,8 +4851,8 @@ Lí-tiúnn-peh--á lí tsiah tsò gún pa-pah ê kong-tō-lîn,
 乎？
 honnh?
 
-啊五姆仔，
-Ah gōo-ḿ--á, 
+啊#五姆仔#，
+Ah #gōo-ḿ--á#, 
 
 你做阮媽媽的公道人。
 lí tsò gún má-mah ê kong-tō-lîn.
@@ -4857,8 +4872,8 @@ To-siā,
 多謝。
 to-siā. 
 
-啊今恁三十年前，
-Ah tann lín sann-tsa̍p nî tsîng, 
+啊今恁#三十#年前，
+Ah tann lín #sann-tsa̍p# nî tsîng, 
 
 有啥物恩怨趕緊講，
 ū siánn-mih un-uàn kuánn-kín kóng, 
@@ -4872,8 +4887,8 @@ Eh,
 我愛偷講，
 guá ài thau kóng, 
 
-阿伯就是三十年前，
-a-peh tō sī sann-tsa̍p nî tsîng, 
+阿伯就是#三十#年前，
+a-peh tō sī #sann-tsa̍p# nî tsîng, 
 
 放捒阮老母的人。
 pàng-sak gún lāu-bú ê lâng.
@@ -4881,8 +4896,8 @@ pàng-sak gún lāu-bú ê lâng.
 喔！
 Ooh! 
 
-三十年前恁母仔予放捒喔？
-Sann-tsa̍p nî tsîng lín bú--á hōo pàng-sak --ooh?
+#三十#年前恁母仔予放捒喔？
+#Sann-tsa̍p# nî tsîng lín bú--á hōo pàng-sak --ooh?
 
 喂，
 Eh, 
@@ -4902,8 +4917,8 @@ ah sán-pi-pa --lah,
 啊甲in查某囝嫁我，
 ah kah in tsa-bóo-kiánn kè --guá, 
 
-免四月日我就曲去咧。
-bián sì ge̍h-li̍t guá tō khiau--khì --leh. 
+免#四#月日我就曲去咧。
+bián #sì# ge̍h-li̍t guá tō khiau--khì --leh. 
 
 啊阮爸氣一下謼，
 Ah gún pâ khì --tsi̍t-ē --hooh, 
@@ -4929,8 +4944,8 @@ guá hit-tsūn ê thòng-khóo,
 用話亂得講。
 iōng uē luān-tit kóng. 
 
-兩年後，
-Nn̄g nî āu, 
+#兩#年後，
+#Nn̄g# nî āu, 
 
 阮老爸強迫我，
 gún lāu-pē kiông-pik --guá, 
@@ -4944,14 +4959,14 @@ i pàng-sak --guá --lah.
 照按呢聽起來，
 Tsiàu án-ne thiann --khí-lâi, 
 
-石阿狗你對愛無堅實，
-Tsio̍h A-káu lí tuì ài bô kian-si̍t, 
+#石##阿狗#你對愛無堅實，
+#Tsio̍h# #A-káu# lí tuì ài bô kian-si̍t, 
 
 隨便娶妻，
 suî-piān tshuā-tshe, 
 
-辜負甜甘嫂，
-koo-hū Tinn-kam só, 
+辜負#甜甘嫂#，
+koo-hū #Tinn-kam-só#, 
 
 按呢著毋著？
 án-ni tio̍h m̄-tio̍h? 
@@ -4992,11 +5007,11 @@ Hó --lah.
 這回欲恢復舊感情，
 Tsit huê beh hue-ho̍k kū kám-tsîng, 
 
-阿狗兄你愛讓步，
-A-káu-hiann lí ài niō-pōo, 
+#阿狗兄#你愛讓步，
+#A-káu-hiann# lí ài niō-pōo, 
 
-予甜甘嫂有一个面子，
-hōo Tinn-kam só ū tsi̍t ê bīn-tsú, 
+予#甜甘嫂#有#一#个面子，
+hōo #Tinn-kam-só# ū #tsi̍t# ê bīn-tsú, 
 
 結婚的順序佮進行，
 kiat-hun ê sūn-sū kah tsìn-hîng, 
@@ -5076,8 +5091,8 @@ Heh --heh!
 Eh，
 Eh, 
 
-人三十年後閣見面乎，
-lâng sann-tsa̍p nî āu koh kìnn-bīn --hoonh, 
+人#三十#年後閣見面乎，
+lâng #sann-tsa̍p# nî āu koh kìnn-bīn --hoonh, 
 
 我實在無影佇咧氣你，
 guá si̍t-tsāi bô-iánn tī-leh khì --lí, 
@@ -5088,8 +5103,8 @@ lâng guá tsiânn huann-hí --neh!
 人我嘛仝款。
 Lâng guá mā kāng-khuán.
 
-甘草的我共你講。
-Kam-tshó--ê guá kā lí kóng.
+#甘草的#我共你講。
+#Kam-tshó--ê# guá kā lí kóng.
 
 唅？
 Hannh? 
@@ -5109,8 +5124,8 @@ Guá mā phái-sè kah.
 嘿嘿嘿！
 Heh heh heh!
 
-阿狗兄！
-A-káu-hiann! 
+#阿狗兄#！
+#A-káu-hiann#! 
 
 較緊咧，
 Khah kín --leh, 
@@ -5238,8 +5253,8 @@ tuì thài-thài tō khah iú-hàu --leh,
 乎？
 honnh?
 
-石先生，
-Tsio̍h --sian-sinn, 
+#石#先生，
+#Tsio̍h# --sian-sinn, 
 
 #謝謝#。
 #謝謝#. 

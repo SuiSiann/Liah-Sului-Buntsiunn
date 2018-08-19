@@ -33,17 +33,23 @@ Guá lâi tsioh tsi̍t tâi huat-tsâi-á lâi kā lí tàu puann.”
 論真講起來，
 Lūn-tsin kóng--khí-lâi, 
 
-春美仔是阮班的上媠的查某囡仔頭三名內的，
-Tshun-bí-á sī guán pan ê siōng suí ê tsa-bóo gín-á thâu-sann-miâ-lāi--ê, 
+#春美仔#是阮班的上媠的
+#Tshun-bí-á# sī guán pan ê siōng suí ê 
+
+查某囡仔頭三名內的，
+tsa-bóo gín-á thâu sann miâ lāi --ê, 
 
 規學校算起來有頭五名內媠的。
-kui ha̍k-hāu sǹg--khí-lâi ū thâu-gōo-miâ-lāi suí--ê. 
+kui ha̍k-hāu sǹg--khí-lâi ū thâu gōo miâ lāi suí --ê. 
 
 真濟痟豬哥攏咧數想欲佮伊按怎，
 Tsin tsē siáu-ti-ko lóng teh siàu-siūnn beh kah i án-tsuánn, 
 
-對入學到今欲半年已經風聲講愛袂著的三、四十个，
-tuì ji̍p-ha̍k kàu-tann beh puànn-nî í-king hong-siann kóng ài-bē-tio̍h--ê sann, sì-tsa̍p ê, 
+對入學到今欲半年已經風聲講
+tuì ji̍p-ha̍k kàu-tann beh puànn-nî í-king hong-siann kóng 
+
+愛袂著的三、四十个，
+ài bē tio̍h --ê sann, sì-tsa̍p ê, 
 
 一个自殺無死咧蹛院。
 tsi̍t ê tsū-sat bô sí teh tuà-īnn. 
@@ -156,8 +162,8 @@ guán tau #Kuro# ê káu tshù mā m̄ bat teh só.”
 
 
 
-春美仔講甲足憤慨。
-Tshun-bí-á kóng kah tsiok hùn-khài. 
+#春美仔#講甲足憤慨。
+#Tshun-bí-á# kóng kah tsiok hùn-khài. 
 
 伊毋但人媠，
 I m̄-nā lâng suí, 
@@ -216,8 +222,11 @@ guá mn̄g kah tsiok kín-tiunn--ê.
 
 
 
-春美仔的粉粉幼幼的喙䫌若蠘仔沖著滾水沓沓仔紅起來，
-Tshun-bí-á ê hún-hún iù-iù ê tshuì-phué ná tshi̍h-á tshiâng-tio̍h kún-tsuí ta̍uh-ta̍uh-á âng--khí-lâi, 
+#春美仔#的粉粉幼幼的喙䫌
+#Tshun-bí-á# ê hún-hún iù-iù ê tshuì-phué 
+
+若蠘仔沖著滾水沓沓仔紅起來，
+ná tshi̍h-á tshiâng-tio̍h kún-tsuí ta̍uh-ta̍uh-á âng --khí-lâi, 
 
 紅絳絳的喙䫌若拄仔炊好的麵龜，
 âng-kòng-kòng ê tshuì-phué ná tú-á tshue hó ê mī-ku,
@@ -243,11 +252,17 @@ guá kám ū kóng-tio̍h bē-sái kóng ê uē?
 無啦！
 Bô --lah! 
 
-我干焦問伊有物件予賊仔脯勍去無，
-Guá kan-na mn̄g i ū mi̍h-kiānn hōo tsha̍t-á-póo khiang --khì --bô, 
+我干焦問伊有物件
+Guá kan-na mn̄g i ū mi̍h-kiānn 
 
-敢講我有啥物會予查某囡仔歹勢的物件佇身軀頂，
-kám-kóng guá ū siánn-mih ē hōo tsa-bóo gín-á pháinn-sè ê mi̍h-kiānn tī sin-khu-tíng, 
+予賊仔脯勍去無，
+hōo tsha̍t-á-póo khiang--khì --bô, 
+
+敢講我有啥物會予查某囡仔
+kám-kóng guá ū siánn-mih ē hōo tsa-bóo gín-á 
+
+歹勢的物件佇身軀頂，
+pháinn-sè ê mi̍h-kiānn tī sin-khu-tíng, 
 
 緊向落去看褲頭有結好勢無......
 kín ànn lo̍h-khì khuànn khòo-thâu ū kat hó-sè bô......
@@ -261,8 +276,8 @@ kín ànn lo̍h-khì khuànn khòo-thâu ū kat hó-sè bô......
 我欲向落去看的時，
 guá beh ànn lo̍h-khì khuànn ê sî, 
 
-春美仔就出聲欲講，
-Tshun-bí-á tō tshut-siann beh kóng, 
+#春美仔#就出聲欲講，
+#Tshun-bí-á# tō tshut-siann beh kóng, 
 
 我緊共頭越轉來看伊紅絳絳的面。
 guá kín kā thâu ua̍t tńg-lâi khuànn i âng-kòng-kòng ê bīn. 

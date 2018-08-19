@@ -1504,7 +1504,7 @@ Kóng-uē put-tsí bûn-ngá tsánn-iūnn,
 ha, lí kiò guá sìng-tsing, hoh hoh hoh,
 
 少年的，你宛若是欲來輸贏是無？
- siàu-liân --ê, lí uán-nā sī beh lâi su-iânn sī --bô? 
+ siàu-liân --ê, lí uan-nā sī beh lâi su-iânn sī --bô? 
 
 劣者替爵主佮你輸贏。
 Lua̍t--tsiá thè tsiok-tsú kah lí su-iânn.
@@ -3186,8 +3186,11 @@ Ah!
 神秘神秘神秘，
 Sîn-pì sîn-pì sîn-pì, 
 
-藏鏡人為何出現在安天常的寶甲護心鏡內咧？
-Tsông-kiànn-jîn uī-hô tshut-hiān tsāi An Thian-siông ê pó-kah hōo-sim-kiànn-lāi --leh? 
+#藏鏡人#為何出現在#安##天常#
+#Tsông-kiànn-jîn# uī-hô tshut-hiān tsāi #An# #Thian-siông# 
+
+的寶甲護心鏡內咧？
+ê pó-kah hōo-sim-kiànn-lāi --leh? 
 
 有神秘，
 Ū sîn-pì, 
@@ -3204,6 +3207,9 @@ Tsông-kiànn-jîn uī-hô tshut-hiān tsāi An Thian-siông ê pó-kah hōo-sim
 一齣大好戲欲知結果，
 tsi̍t tshut tuā hó hì io̍k ti kiat-kó, 
 
-請繼續觀賞黃俊雄布袋戲雲州大儒俠。
-tshiánn kè-sio̍k kuan-sióng N̂g Tsùn-hiông Pòo-tē-hì Hûn-tsiu tāi jû-kiap.
+請繼續觀賞
+tshiánn kè-sio̍k kuan-sióng 
+
+#黃##俊雄#布袋戲#雲州##大儒俠#。
+#N̂g# #Tsùn-hiông# Pòo-tē-hì #Hûn-tsiu# #tāi jû-kiap#.
 
