@@ -3,8 +3,11 @@
 「阮阿爸欲予人銃殺矣。」
 “Guán a-pah beh hōo lâng tshìng-sat --ah.”
 
-#Maryang#過欲10分鐘才對#Line#傳這句話過來。
-#Maryang# kuè beh 10 hun-tsing tsiah uì #Line# thuân tsit kù uē kuè--lâi.
+#Maryang#過欲10分鐘才對
+#Maryang# kuè beh 10 hun-tsing tsiah uì 
+
+#Line#傳這句話過來。
+#Line# thuân tsit kù uē kuè--lâi.
 
 
 
@@ -12,11 +15,14 @@
 這擺換我毋知欲按怎回伊，
 Tsit pái uānn guá m̄ tsai beh án-tsuánn huê --i, 
 
-我看手機仔頂懸的時間直直行，想一下，閣考慮一下，
-guá khuànn tshiú-ki-á tíng-kuân ê sî-kan ti̍t-ti̍t kiânn, siūnn --tsi̍t-ē, koh khó-lī --tsi̍t-ē,
+我看手機仔頂懸的時間直直行，
+guá khuànn tshiú-ki-á tíng-kuân ê sî-kan ti̍t-ti̍t kiânn, 
 
-隨閣10分鐘欲過矣，
-suî koh 10 hun-tsing beh kuè --ah, 
+想一下，閣考慮一下，
+siūnn --tsi̍t-ē, koh khó-lī --tsi̍t-ē,
+
+隨閣#10#分鐘欲過矣，
+suî koh #10# hun-tsing beh kuè --ah, 
 
 毋過我猶原毋知欲講啥，
 m̄-koh guá iu-guân m̄ tsai beh kóng siánn, 
@@ -33,8 +39,8 @@ pa̍t-lâng guá bô iàu-kín,
 #Maryang#是我煞足久的查某囡仔呢，
 #Maryang# sī guá sannh tsiok kú ê tsa-bóo gín-á --neh, 
 
-我是頭殼𠞩落來kheh嘛愛積一句話來應伊的。
-guá sī thâu-khak tsuî-lo̍h-lâi kheh mā ài tsik tsi̍t kù uē lâi ìn --i --ê.
+我是頭殼𠞩落來齧嘛愛積一句話來應伊的。
+guá sī thâu-khak tsuî-lo̍h-lâi khè mā ài tsik tsi̍t kù uē lâi ìn --i --ê.
 
 
 
@@ -48,8 +54,8 @@ guá sī thâu-khak tsuî-lo̍h-lâi kheh mā ài tsik tsi̍t kù uē lâi ìn -
 我知這句回著若像蓋無誠意，
 Guá tsai tsit kù huê tio̍h ná-tshiūnn kài bô sîng-ì, 
 
-尤其是10分鐘後，
-iû-kî sī 10 hun-tsing āu, 
+尤其是#10#分鐘後，
+iû-kî sī #10# hun-tsing āu, 
 
 這句閣較夭壽無誠意，
 tsit kù koh-khah iáu-siū bô sîng-ì, 
@@ -58,7 +64,7 @@ tsit kù koh-khah iáu-siū bô sîng-ì,
 tsóng--sī, 
 
 若佮原底我想欲回的彼句：
-nā kah guân-té guá siūnn-beh huê--ê hit kù: 
+nā kah guân-té guá siūnn-beh huê --ê hit kù: 
 
 「恁老爸是烏道呢？」
 “Lín lāu-pē sī oo-tō --nih?” 
@@ -67,7 +73,7 @@ nā kah guân-té guá siūnn-beh huê--ê hit kù:
 Tsit kù tō ke tsin thò-tòng, 
 
 敢毋是？
-kám m̄ sī？
+kám m̄ sī?
 
 
 
@@ -93,8 +99,11 @@ in lāu-pē sī lāi-lî-á-té ê sí-huān...
 自來，
 Tsū-lâi, 
 
-都毋捌聽#Maryang#講著in兜抑是in老爸的代誌，
-to m̄ bat thiann #Maryang# kóng-tio̍h in tau ia̍h-sī in lāu-pē ê tāi-tsì, 
+都毋捌聽#Maryang#講著
+to m̄ bat thiann #Maryang# kóng-tio̍h 
+
+in兜抑是in老爸的代誌，
+in tau ia̍h-sī in lāu-pē ê tāi-tsì, 
 
 是今仔日中晝上課，
 sī kin-á-ji̍t tiong-tàu siōng-khò, 
@@ -109,7 +118,7 @@ puànn-lōo siam kìnn i tsē tī hāng-lōo-pinn ê í-liâu-á-tíng,
 thâu lê-lê, 
 
 手佇面裡huê咧huê咧，
-tshiú tī bīn --lí huê --leh huê --leh, 
+tshiú tī bīn--lí huê --leh huê --leh, 
 
 本底毋敢倚過，
 pún-té m̄ kánn uá --kuè, 
@@ -132,8 +141,11 @@ Tsiah tī i pinn--á tsē --lo̍h-lâi niā-niā,
 一句講都未曾話，
 tsi̍t kù kóng to buē-tsîng uē, 
 
-伊目屎煞親像袚鍊斷線按呢一粒一粒跋落塗跤。
-i ba̍k-sái suah tshin-tshiūnn phua̍h-liān tn̄g suànn án-ne tsi̍t lia̍p tsi̍t lia̍p pua̍h-lo̍h thôo-kha. 
+伊目屎煞親像袚鍊斷線
+i ba̍k-sái suah tshin-tshiūnn phua̍h-liān tn̄g suànn 
+
+按呢一粒一粒跋落塗跤。
+án-ne tsi̍t lia̍p tsi̍t lia̍p pua̍h-lo̍h thôo-kha. 
 
 足想欲共攬倚來，
 Tsiok siūnn-beh kā lám uá --lâi, 
@@ -144,8 +156,8 @@ m̄-koh lán to m̄ sī i ê siánn-mih lâng,
 嘛只好恬恬仔對揹仔撏紙巾仔予伊。
 mā tsí-hó tiām-tiām-á tuì phāinn-á jîm tsuá-kin-á hōo --i. 
 
-Kin-sio̍k……
-Kin-sio̍k... 
+Kin-sio̍k
+Kin-sio̍k 
 
 kin-sio̍k今仔日，
 kin-sio̍k kin-á-ji̍t, 
@@ -153,14 +165,14 @@ kin-sio̍k kin-á-ji̍t,
 閣是愛去「拜訪」爸母的時間，
 koh sī ài khì “Pài-hóng” pē-bú ê sî-kan, 
 
-啊我有影就無足想欲去……
-ah guá ū-iánn tō bô tsiok siūnn-beh khì...
+啊我有影就無足想欲去。
+ah guá ū-iánn tō bô tsiok siūnn-beh khì.
 
 
 
 
-若講著阮老爸老母乎……
-Nā kóng-tio̍h guán lāu-pē lāu-bú --honnh... 
+若講著阮老爸老母乎
+Nā kóng-tio̍h guán lāu-pē lāu-bú --honnh 
 
 自in離緣了後，
 Tsū in lī-iân liáu-āu, 
@@ -169,10 +181,10 @@ Tsū in lī-iân liáu-āu,
 guá tō piàn-tsò nn̄g ê tshù ài tńg, 
 
 一爿是阿爸佮伊閣娶的某，
-tsi̍t pîng sī a-pah kah i koh tshuā ê bóo, 
+tsi̍t-pîng sī a-pah kah i koh tshuā ê bóo, 
 
 一爿是阿母。
-tsi̍t pîng sī a-bú. 
+tsi̍t-pîng sī a-bú. 
 
 實在講，
 Si̍t-tsāi kóng, 
@@ -186,8 +198,8 @@ guá bô siánn liáu-kái,
 嘛無啥愛插，
 mā bô siánn ài tshap, 
 
-in佇我國小五年彼冬離婚了後，
-in tī guá kok-sió gōo nî hit tang lī-hun liáu-āu, 
+in佇我國小#五#年彼冬離婚了後，
+in tī guá kok-sió #gōo# nî hit tang lī-hun liáu-āu, 
 
 法律上我是綴阮老爸，
 huat-lu̍t siōng guá sī tuè guán lāu-pē, 
@@ -210,8 +222,8 @@ kiat-kó suah tshin-tshiūnn lāu-koo-tuann,
 予人踢過來、捒過去，
 hōo lâng that kuè-lâi, sak kuè-khì, 
 
-貓徙岫七八冬，
-niau suá siū tshit peh tang, 
+貓徙岫#七##八#冬，
+niau suá siū #tshit# #peh# tang, 
 
 大學的時，
 tāi-ha̍k ê sî, 
@@ -279,8 +291,11 @@ Koo-put-jî-tsiong koh tshut hit kù:
 哎啊！
 Aih-ah! 
 
-我揤「送出」彼个箭頭的時目睭放瞌閣揤並大力的，
-Guá tshi̍h “Sàng-tshut” hit ê tsìnn-thâu ê sî ba̍k-tsiu pàng kheh koh tshi̍h phīng tuā-la̍t--ê, 
+我揤「送出」彼个箭頭的時
+Guá tshi̍h “Sàng-tshut” hit ê tsìnn-thâu ê sî 
+
+目睭放瞌閣揤並大力的，
+ba̍k-tsiu pàng kheh koh tshi̍h phīng tuā-la̍t --ê, 
 
 感覺足見笑！
 kám-kak tsiok kiàn-siàu! 
@@ -292,10 +307,10 @@ Tsim-tsiok tsiah kú,
 tsit kù bô hó, 
 
 彼句宛若無好，
-hit kù uán-nā bô hó, 
+hit kù uan-nā bô hó, 
 
-啊無是佗一句會合軀唅？
-ah bô sī tó tsi̍t kù ē ha̍h-su --hannh? 
+抑無是佗一句會合軀唅？
+iah-bô sī tó tsi̍t kù ē ha̍h-su --hannh? 
 
 哎啊我毋知啦！
 Aih-ah guá m̄ tsai --lah！
@@ -312,8 +327,11 @@ Tsit-lō sí kò-sìng --honnh,
 干焦發性地的時會暫時消風！
 kan-na huat-sìng-tē ê sî ē tsiām-sî siau-hong！ 
 
-可惜我就毋是現今當時行的「憤怒青年」，
-Khó-sioh guá tō m̄ sī hiān-kim tng sî-kiânn ê “Hùn-nōo tshing-liân”, 
+可惜我就毋是現今當時行的
+Khó-sioh guá tō m̄ sī hiān-kim tng sî-kiânn ê 
+
+「憤怒青年」，
+“Hùn-nōo tshing-liân”, 
 
 若是，
 nā-sī, 
@@ -324,11 +342,14 @@ guá tō bē ta̍k-put-sî tsiah suan-ngiāu --ah.
 
 
 
-#Hana#委員咧欲予「伨死聯盟」佮「廢死聯盟」的人煩死矣，
-#Hana# uí-uân teh-beh hōo “Thīn sí liân-bîng” kah “Huì sí liân-bîng” ê lâng huân--sí --ah, 
+#Hana#委員咧欲予「伨死聯盟」
+#Hana# uí-uân teh-beh hōo “Thīn sí liân-bîng” 
+
+佮「廢死聯盟」的人煩死矣，
+kah “Huì sí liân-bîng” ê lâng huân--sí --ah, 
 
 這兩陣人逐工照三頓來咧問，
-tsit nn̄g tīn lâng ta̍k kang tsiàu sann tǹg lâi teh mn̄g, 
+tsit nn̄g tīn lâng ta̍k kang tsiàu sann-tǹg lâi teh mn̄g, 
 
 愛伊著參加in的連署，
 ài i tio̍h tsham-ka in ê liân-sú, 
@@ -339,8 +360,11 @@ tī Li̍p-huat-īnn thīn in ê àn,
 毋但按呢，
 m̄-nā án-ne, 
 
-閣鼓吹in隨个團體的支持者敲電話來用嚇的，
-koh kóo-tshue in suî-ê thuân-thé ê tsi-tshî-tsiá khà tiān-uē lâi iōng hánn--ê, 
+閣鼓吹in隨个團體的支持者
+koh kóo-tshue in suî-ê thuân-thé ê tsi-tshî-tsiá 
+
+敲電話來用嚇的，
+khà tiān-uē lâi iōng hánn --ê, 
 
 舞甲尾仔#Hana#只好手機仔關機，
 bú kah bué--á #Hana# tsí-hó tshiú-ki-á kuainn-ki, 
@@ -348,8 +372,11 @@ bú kah bué--á #Hana# tsí-hó tshiú-ki-á kuainn-ki,
 結果這聲電話規个攏溢對伊的辦公室，
 kiat-kó tsit-siann tiān-uē kui-ê lóng ik uì i ê pān-kong-sik, 
 
-伊逐个助理是接甲頭眩目暗、講甲喉焦舌渴，
-i ta̍k ê tsōo-lí sī tsiap kah thâu-hîn-ba̍k-àm, kóng kah tshuì-ta-tsi̍h-khuah, 
+伊逐个助理是接甲頭眩目暗、
+i ta̍k ê tsōo-lí sī tsiap kah thâu-hîn-ba̍k-àm, 
+
+講甲喉焦舌渴，
+kóng kah âu-ta-tsi̍h-khuah, 
 
 個個撟甲無力。
 kô-kô kiāu kah bô-la̍t.

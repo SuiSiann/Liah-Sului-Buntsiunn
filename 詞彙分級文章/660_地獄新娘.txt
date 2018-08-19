@@ -1372,13 +1372,13 @@ Tsa̍p-jī ka tshit sǹg hó --bē?
 Pa--pah hōo lí tsa̍p-jī khoo, 
 
 媽媽予你七箍，
-ma--mah hōo lí tshit khoo, 
+má-mah hōo lí tshit khoo, 
 
 總共偌濟？
 tsóng-kiōng guā-tsuē?
 
 媽媽、媽媽。
-Ma--mah, ma--mah.
+Má-mah, má-mah.
 
 #淑媛#，
 #Siok-luán#, 
@@ -1417,13 +1417,13 @@ lí tsai-iánn #Siok-luán# beh khì tó-uī --bô?
 Bōng--e hia.
 
 是#淑媛#媽媽的墓是毋？
-Sī #Siok-luán# ma--mah ê bōng sī --m̄?
+Sī #Siok-luán# má-mah ê bōng sī --m̄?
 
 Mh,
 Mh, 
 
 in媽媽無死，
-in ma--mah bô sí, 
+in má-mah bô sí, 
 
 頭家娘無死。
 thâu-ke-niû bô sí!
@@ -1444,13 +1444,13 @@ Lí ná ē tsai-iánn?
 Lí tshuā lāu-su lâi-khì bōng--e hó --m̄?
 
 媽媽，
-Ma--mah, 
+Má-mah, 
 
 你怎樣欲放#淑媛#一个人？
 lí tsuánn-iūnn beh pàng #Siok-luán# tsi̍t ê lâng? 
 
 媽媽，
-Ma--mah,
+Má-mah,
 
 你袂得通疼#淑媛#，
 lí bē-tit-thang thiànn #Siok-luán#, 
@@ -1459,7 +1459,7 @@ lí bē-tit-thang thiànn #Siok-luán#,
 pa--pah iā bô ài thiànn --guá! 
 
 媽媽。
-Ma--mah.
+Má-mah.
 
 老師，
 Lāu-su, 
@@ -1468,10 +1468,10 @@ Lāu-su,
 tī hia!
 
 媽媽、
-Ma--mah, 
+Má-mah, 
 
 媽媽。
-Ma--mah.
+Má-mah.
 
 #淑媛#、
 #Siok-luán#, 
@@ -1489,7 +1489,7 @@ m̄-hó khàu.
 Lāu-su kā lí siōng-khò í-guā, 
 
 盡量代替恁媽媽來疼惜你，
-tsīn-liōng tāi-thè lín ma--mah lâi thiànn-sioh --lí, 
+tsīn-liōng tāi-thè lín má-mah lâi thiànn-sioh --lí, 
 
 好毋？
 hó --m̄? 
@@ -1513,7 +1513,7 @@ Hó --m̄?
 Lāu-su, 
 
 你真親像阮媽媽呢。
-lí tsin tshin-tshiūnn gún ma--mah --neh.
+lí tsin tshin-tshiūnn gún má-mah --neh.
 
 誠實的？ 
 Tsiânn-si̍t --ê?
@@ -1543,7 +1543,7 @@ Thâu-ke-niû.
 Siánn-mih? 
 
 阮媽媽喔？
-Gún ma--mah --ooh?
+Gún má-mah --ooh?
 
 太太。
 Thài-thài.
@@ -1786,7 +1786,7 @@ iā su-iàu pē-bú ê ài.
 Lí uī-tsánn-iūnn tuì ka-kī ê tsa-bóo-kiánn tsiah-nī líng-tām? 
 
 現在#淑媛#無媽媽，
-Hiān-tsāi #Siok-luán# bô ma--mah, 
+Hiān-tsāi #Siok-luán# bô má-mah, 
 
 你著愛更加愛伊才著。
 lí tio̍h ài kìng-ka ài --i tsiah tio̍h.
@@ -1924,7 +1924,7 @@ Mh.
 Lāu-su ū tsi̍t nî bô phah go-lú-huh kiû --ah.
 
 阮媽媽嘛真愛拍。
-Gún ma--mah mā tsin ài phah. 
+Gún má-mah mā tsin ài phah. 
 
 老師你也來拍好無？
 Lāu-su lí iā lâi phah hó --bô?
@@ -1933,7 +1933,7 @@ Lāu-su lí iā lâi phah hó --bô?
 Lāu-su bô kiû-tshê iā bô phah-kiû-sann.
 
 球箠阮媽媽房間有，
-Kiû-tshê gún ma--mah pâng-king ū, 
+Kiû-tshê gún má-mah pâng-king ū, 
 
 我𤆬你來去提。
 guá tshuā lí lâi-khì the̍h.
@@ -1963,7 +1963,7 @@ Bô iàu-kín --lah.
 Lāu-su, 
 
 這領是阮媽媽拍球穿的。
-tsit niá sī gún ma--mah phah-kiû tshīng --ê.
+tsit niá sī gún má-mah phah-kiû tshīng --ê.
 
 呃？
 Eh? 
@@ -2002,7 +2002,7 @@ beh ná ū khó-lîng?
 Mah, 
 
 老師你誠成阮媽媽呢。
-lāu-su lí tsiânn sîng gún ma--mah --neh.
+lāu-su lí tsiânn sîng gún má-mah --neh.
 
 敢有相siāng？
 Kám ū sio-siāng?
@@ -2929,7 +2929,7 @@ lí í-tsîng m̄ tō tiānn-tiānn lâi?
 #A-lân#, 
 
 頂的踮咧鎖匙孔咧看，
-tíng ê tiàm-leh só-sî-kháng leh khuànn, 
+tíng ê tiàm leh só-sî-kháng leh khuànn, 
 
 是毋是你？
 sī m̄ sī lí?
@@ -3376,7 +3376,7 @@ Lāu-su,
 lí m̄-thang tsáu, 
 
 你予我做媽媽好毋？
-lí hōo guá tsuè ma--mah hó --m̄?
+lí hōo guá tsuè má-mah hó --m̄?
 
 #淑媛#，
 #Siok-luán#, 
@@ -3391,7 +3391,7 @@ Tsia̍h tsi̍t-tiám gû-ling tsiah khùn hó --m̄?
 Lāu-su, 
 
 人是愛你⿰予人做媽媽，
-lâng sī ài lí hőng tsuè ma--mah, 
+lâng sī ài lí hőng tsuè má-mah, 
 
 你干焦毋講，
 lí kan-na m̄ kóng, 
@@ -3403,7 +3403,7 @@ tō beh kiò lâng tsia̍h gû-ni.
 #Siok-luán#, 
 
 做媽媽的代誌等病好才講，
-tsò ma--mah ê tāi-tsì tán pīnn hó tsiah kóng, 
+tsò má-mah ê tāi-tsì tán pīnn hó tsiah kóng, 
 
 好毋？
 hó --m̄? 
@@ -3415,7 +3415,7 @@ M̄ --lah, m̄ --lah, m̄ --lah.
 Hó, 
 
 老師答應做你的媽媽，
-lāu-su tah-ìng tsò lí ê ma--mah,
+lāu-su tah-ìng tsò lí ê má-mah,
 
 但是毋通予別人知影喔，
 tān-sī m̄-thang hōo pa̍t-lâng tsai-iánn --ooh, 
@@ -3448,7 +3448,7 @@ Mh.
 Lāu-su, 
 
 媽媽！
-ma--mah! 
+má-mah! 
 
 我欲食牛奶矣。
 Guá beh tsia̍h gû-ling --ah.
@@ -3832,7 +3832,7 @@ Guá mā sī.
 Āu--ji̍t, 
 
 我就欲做淑媛的媽媽。
-guá tō beh tsò Siok-luán ê ma--mah.
+guá tō beh tsò Siok-luán ê má-mah.
 
 唅？
 Hannh? 
@@ -4333,13 +4333,13 @@ Pe̍h lāu-su,
 Pe̍h lāu-su!
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 瑞美！
 Suī-bí!
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 阿蘭，
 A-lân, 
@@ -4402,7 +4402,7 @@ Pe̍h lāu-su!
 Pe̍h lāu-su --ah!
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 老師！
 Lāu-su!
@@ -4414,7 +4414,7 @@ Suī-bí,
 Suī-bí!
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 瑞美、
 Suī-bí, 
@@ -4432,7 +4432,7 @@ Suī-bí,
 Suī-bí!
 
 媽媽，
-Ma--mah, 
+Má-mah, 
 
 我啦，
 guá --lah, 
@@ -4441,7 +4441,7 @@ guá --lah,
 Siok-luán --lah! 
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 老師、
 Lāu-su, 
@@ -4468,7 +4468,7 @@ Suī-bí!
 Pe̍h lāu-su --ah!
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 老師！
 Lāu-su!
@@ -4483,7 +4483,7 @@ Gī-bîng,
 Siok-luán.
 
 媽媽！
-Ma--mah!
+Má-mah!
 
 阿蘭。
 A-lân.
@@ -4810,13 +4810,13 @@ tsin-tsiànn ê ài m̄ sī uán-lōng tshiú-tuānn lâi tua̍t-tshú --ê.
 Kiânn.
 
 你害死阮媽媽，
-Lí hāi-sí gún ma--mah, 
+Lí hāi-sí gún má-mah, 
 
 媽媽還我啦，
-ma--mah hîng --guá --lah, 
+má-mah hîng --guá --lah, 
 
 媽媽還我啦，
-ma--mah hîng --guá --lah, 
+má-mah hîng --guá --lah, 
 
 毋管伊矣啦。
 m̄-kuán --i --ah --lah.
@@ -4834,7 +4834,7 @@ m̄-hó án-ne.
 M̄-hó án-ne, 
 
 恁媽媽的死，
-lín ma--mah ê sí,
+lín má-mah ê sí,
 
 官廳會替咱辦，
 kuann-thiann ē thè lán pān, 
@@ -4843,7 +4843,7 @@ kuann-thiann ē thè lán pān,
 lāu-su, 
 
 媽媽會疼你，
-ma--mah ē thiànn --lí, 
+má-mah ē thiànn --lí, 
 
 乎？
 honnh?

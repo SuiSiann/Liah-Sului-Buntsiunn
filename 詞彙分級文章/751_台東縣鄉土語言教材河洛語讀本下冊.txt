@@ -604,7 +604,7 @@ mā bô huat-tōo thang kè-kàu,
 i tō tng in lāu-pē bīn-tsîng,
 
 宛若搧家己兩下喙䫌予in老爸看，
-uán-nā siàn ka-kī nn̄g ē tshuì-phué hōo in lāu-pē khuànn,
+uan-nā siàn ka-kī nn̄g ē tshuì-phué hōo in lāu-pē khuànn,
 
 in老爸就共伊罵講：
 in lāu-pē tō kā i mē kóng:
@@ -1464,11 +1464,11 @@ kuān-ló-iâ tsin siū-khì,
 賞伊一百大板，
 siúnn i tsi̍t-pah tuā-pán,
 
-共拍甲哀爸叫母，跛腳跛轉去。
+共拍甲哀爸叫母，跛跤跛轉去。
 kā phah kah ai-pē-kiò-bú, pái-kha pái --tńg-khì.
 
-第十一課 先賢#胡傳#佮#臺東#
-Tē-tsa̍p-it khò sian-hiân #Ôo Thuân# kah #Tâi-tang#
+第十一課 先賢#胡##傳#佮#臺東#
+Tē-tsa̍p-it khò sian-hiân #Ôo# #Thuân# kah #Tâi-tang#
 
 #臺東#火車頭面頭前，
 #Tâi-tang# hué-tshia-thâu bīn-thâu-tsîng,
@@ -1491,8 +1491,8 @@ tsit tiâu lōo hō-tsò #Thih-hua-lōo#,
 是紀念#清朝#末期一个為國盡忠，
 sī kì-liām #Tshing-tiâu# bua̍t-kî tsi̍t ê uī-kok-tsīn-tiong, 
 
-勤政愛民的知州－#胡傳#先生，
-khîn-tsìng-ài-bîn ê ti-tsiu－#Ôo Thuân# sian-sinn,
+勤政愛民的知州－#胡##傳#先生，
+khîn-tsìng-ài-bîn ê ti-tsiu－#Ôo# #Thuân# sian-sinn,
 
 伊的字叫做#鐵花#，
 i ê jī kiò-tsò #Thih-hua#, 
@@ -1516,7 +1516,7 @@ hō-tsò #Thih-hua-lōo# lâi kì-liām i.
 Lî tsia bô guā hn̄g ê #Lí-hî-suann# lāi
 
 宛若有一座紀念伊的石碑，
-uán-nā ū tsi̍t tsō kì-liām i ê tsio̍h-pi, 
+uan-nā ū tsi̍t tsō kì-liām i ê tsio̍h-pi, 
 
 予人永遠的思念。
 hōo lâng íng-uán ê su-liām.
@@ -1683,8 +1683,11 @@ tī tsi̍t hāng kok-tsè-sìng ê hue-tián tiong,
 勝過群芳，得著頭獎，
 sìng kuè kûn hong, tit-tio̍h thâu-tsióng, 
 
-就按呢，政府將#紅頭嶼#改名號做#蘭嶼#。
-tsū-án-ne, tsìng-hú tsiong #Âng-thâu-sū# kái-miâ hō-tsò #Lân-sū#.
+就按呢，政府將#紅頭嶼#
+tsū-án-ne, tsìng-hú tsiong #Âng-thâu-sū# 
+
+改名號做#蘭嶼#。
+kái-miâ hō-tsò #Lân-sū#.
 
 #蘭嶼#的風景真媠，
 #Lân-sū# ê hong-kíng tsin suí,
@@ -1698,8 +1701,11 @@ tsin tsē hîng-thé kî-kî-kuài-kuài ê tsio̍h-thâu,
 #龍頭岩#、#戰車岩#、#兵艦岩#等等，
 #lîng-thâu-giâm#, #tsiàn-tshia-giâm#, #ping-lām-giâm# tíng-tíng, 
 
-攏和in號的名稱的動物抑是物件真親像，
-lóng hām in hō ê miâ-tshing ê tōng-bu̍t ia̍h-sī mi̍h-kiānn tsin tshin-tshiūnn, 
+攏和in號的名稱的動物
+lóng hām in hō ê miâ-tshing ê tōng-bu̍t 
+
+抑是物件真親像，
+ia̍h-sī mi̍h-kiānn tsin tshin-tshiūnn, 
 
 會當講無奇不有，真正心適。
 ē-tàng kóng bû-kî-put-iú, tsin-tsiànn sim-sik. 
