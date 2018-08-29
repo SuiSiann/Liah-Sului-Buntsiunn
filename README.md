@@ -1,5 +1,5 @@
 # liah_sului_buntsiunn
-掠指定的詞彙分級文章
+掠指定的文章
 
 ## txt=>odt
 - `雙欄`
