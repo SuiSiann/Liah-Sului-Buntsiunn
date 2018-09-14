@@ -3,11 +3,11 @@
 數十萬的民眾，
 Sòo-tsa̍p-bān ê bîn-tsiòng, 
 
-逐年年底暗暝十二點，
-ta̍k-nî nî-té àm-mê tsa̍p-jī tiám, 
+逐年年底暗暝#十二#點，
+ta̍k-nî nî-té àm-mê #tsa̍p-jī# tiám, 
 
-聚集佇#臺北#101大樓的下面，
-tsū-tsi̍p tī #Tâi-pak# 101 tuā-lâu ê ē-bīn, 
+聚集佇#臺北##101#大樓的下面，
+tsū-tsi̍p tī #Tâi-pak# #101# tuā-lâu ê ē-bīn, 
 
 等待跨年算秒：
 tán-thāi khuà-nî sǹg bió: 
@@ -21,8 +21,8 @@ tán-thāi khuà-nî sǹg bió:
 五花十色的煙火，
 Gōo-hue-tsa̍p-sik ê ian-hué, 
 
-對世界上懸的#臺北#101大樓的34樓開始，
-tuì sè-kài siōng kuân ê #Tâi-pak# 101 tuā-lâu ê 34 lâu khai-sí, 
+對世界上懸的#臺北##101#大樓的#34#樓開始，
+tuì sè-kài siōng kuân ê #Tâi-pak# #101# tuā-lâu ê #34# lâu khai-sí, 
 
 一層一層向四面八方射出去。
 tsi̍t tsân tsi̍t tsân hiòng sì-bīn-pat-hong siā --tshut-khì. 
@@ -78,8 +78,8 @@ koh tsō-sîng siau-hông jîn-uân tsi̍t ê lâng sí-bông,
 七个人著傷，
 tshit ê lâng tio̍h-siong, 
 
-損失達到新臺票192億。
-sún-sit ta̍t-kàu sin-tâi-phiò 192 ik.
+損失達到新臺票#192#億。
+sún-sit ta̍t-kàu sin-tâi-phiò #192# ik.
 
 逐年元宵暝，
 Ta̍k nî Guân-siau-mê, 
@@ -93,8 +93,8 @@ Kin-kì #Tâi-lâm-tshī# siau-hông-tuī thóng-kè,
 『煙火秀』彼一暝，
 ‘ian-hué-siù’ hit tsi̍t mê, 
 
-一點鐘內就有八十七个人著傷，
-tsi̍t tiám-tsing-lāi tō ū peh-tsa̍p-tshit ê lâng tio̍h-siong, 
+一點鐘內就有#八十七#个人著傷，
+tsi̍t tiám-tsing lāi tō ū #peh-tsa̍p-tshit# ê lâng tio̍h-siong, 
 
 一暗算起來攏總有上百个人著傷。
 tsi̍t àm sǹg --khí-lâi lóng-tsóng ū tsiūnn-pah ê lâng tio̍h-siong. 
@@ -108,8 +108,11 @@ ta̍k ê lóng tsai-iánn tsuân-sin bú-tsong,
 逐年攏嘛有真濟人著傷。
 ta̍k-nî lóng mā ū tsin tsē lâng tio̍h-siong. 
 
-上嚴重的是#新竹#市民#梁秀珍#的正蕊目睭予蜂仔炮炸著傷，
-Siōng giâm-tiōng ê sī #Sin-tik# tshī-bîn #Niû Siù-tin# ê tsiànn luí ba̍k-tsiu hōo phang-á-phàu tsà tio̍h-siong, 
+上嚴重的是#新竹#市民#梁##秀珍#的
+Siōng giâm-tiōng ê sī #Sin-tik# tshī-bîn #Niû# #Siù-tin# ê 
+
+正蕊目睭予蜂仔炮炸著傷，
+tsiànn luí ba̍k-tsiu hōo phang-á-phàu tsà tio̍h-siong, 
 
 引起頭殼內出血。
 ín-khí thâu-khak-lāi tshut-hueh. 
@@ -159,8 +162,11 @@ Hi-bāng iú-kuan tan-uī,
 勸民眾盡量減少放煙火。
 khǹg bîn-tsiòng tsīn-liōng kiám-tsió pàng-ian-hué. 
 
-#Phih-li-phah-la#的炮仔聲盡量用環保炮仔聲來代替。
-#Phih-li-phah-la# ê phàu-á siann tsīn-liōng iōng khuân-pó phàu-á siann lâi tāi-thè. 
+#Phih-li-phah-la#的炮仔聲
+#Phih-li-phah-la# ê phàu-á siann 
+
+盡量用環保炮仔聲來代替。
+tsīn-liōng iōng khuân-pó phàu-á siann lâi tāi-thè. 
 
 若真正需要放的時，
 Nā tsin-tsiànn su-iàu pàng ê sî, 
